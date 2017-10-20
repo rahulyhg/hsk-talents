@@ -4,7 +4,7 @@
  * Plugin URI: https://themeforest.net/user/sitesspark
  * Version: 1.0
  * Author: Sites Spark
- * Description: Create Mutltiple talent profiles like model, voice actors, agency, singers like...
+ * Description: This plugins is used to create multiple talent profiles like model, photographers, agency, actors, singers with diffrent profile fields.
  * Author URI: https://themeforest.net/user/sitesspark
  * License: GPLv2 or later
  * Text Domain: hsktalents
