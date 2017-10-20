@@ -1,0 +1,242 @@
+.postbox h3{    
+    min-width: 255px;
+    border: 1px solid #e5e5e5;
+    -webkit-box-shadow: 0 1px 1px rgba(0,0,0,.04);
+    box-shadow: 0 1px 1px rgba(0,0,0,.04);
+    background: #fff;
+    padding: 15px;
+    margin:0px;
+}
+/* Options Background Settings */
+.wrap.hsk-meta-options-form-group {
+    margin: 0;
+    margin-left: -20px;
+    padding: 5px;
+}
+.wrap.hsk-meta-options-form-group h2{
+    display: block;
+    padding: 30px;
+    background: #f6f6f6;
+    position: relative;
+}
+/* Options Tabler Settings */
+#talents_options_sortable tr {
+    padding: 20px 30px;
+    margin:0px!important;
+    border-bottom: 1px solid rgba(204,204,204,.3);
+    overflow: hidden;
+    cursor: move;
+}
+.fields_add_options{
+    background:#f9f9f9;
+    padding: 20px 30px;
+    margin-bottom: 30px!important;
+    overflow: hidden;
+}
+.input_field_select_options, .option_hide{
+    display: none;
+}
+.options_fields_group label{
+    display: block;
+}
+.generate-tab-new-fields_0{
+    display: none;
+}
+.options_fields_group img{
+    cursor: move;
+}
+table{
+    width: 100%;
+    max-width: 100%;
+    margin-top:-2px;
+    text-align: left;
+}
+.generate-tab-new-fields .table thead tr{
+    color: #fff;
+}
+.generate-tab-new-fields .table thead tr th {
+    padding: 15px 25px;
+    font-size: 12px;
+    border-bottom: 1px solid #e1e1e1;
+}
+.generate-tab-new-fields .table thead tr th:first-child{
+    width: 1px;
+}
+.generate-tab-new-fields th, .generate-tab-new-fields td{
+    padding:15px;
+     border-bottom: 1px solid #e5e5e5;
+}
+
+.generate-tab-new-fields tr:nth-child(odd){
+    background:#f9f9f9;
+}
+
+#talents_options_sortable tr:nth-child(even){
+    background:#f9f9f9;
+}
+#talents_options_sortable tr:nth-child(odd){
+    background:#EFEFEF;
+}
+.generate-tab-new-fields select, .generate-tab-new-fields input{
+    width: 100%;
+    height: 34px;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #555;
+    background-color: #ffffff;
+    background-image: none;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
+     box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
+     -webkit-transition: border-color ease-in-out .15s,-webkit-box-shadow ease-in-out .15s;
+    -o-transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+    transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+}
+.generate-tab-new-fields {
+    background: #f5f5f5;
+    margin-bottom: 30px;
+}
+/* Fileds Validation */
+.validate-field-error {
+    border: 1px solid red!important;
+}
+/* Button Settings */
+.fields_options_delete a{
+    color: #fff;
+    background-color: #d9534f;
+    border-color: #d43f3a;
+    padding: 4px 15px;
+    margin-top: 0;
+    display: table;
+    border-radius: 3px;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 15px;
+}
+.fields_options_delete a:hover{
+    opacity: 0.9;
+}
+.hsk-group-field-option.select_field_select_options, .hsk-group-field-option.input-type-select-date-format, .hsk-group-field-option.options_fields_title, .input_field_user_role_name.hsk-user-roles-limits-info ul{
+    display: none;
+}
+/* Selections Options */
+.select_field_select_options.show_options_data, .input-type-select-date-format.show_options_data, .options_fields_title.show_options_data, .hsk-user-roles-limits-info ul.show_options_data
+{
+    display: block;
+}
+.form-opt-add-button-group{
+    display: block;
+    padding: 15px 20px;
+    background: #ffffff;
+    border-bottom: 1px solid #f5f5f5;
+}
+.form-opt-add-button-group .button-primary {
+    display: inline-block;
+    font-size: 35px;
+    font-weight: bold;
+    padding: 20px;
+    line-height: 0;
+    height: auto;
+}
+.form-opt-add-button-group p.submit{
+    float: right;
+    margin: 0;
+    display: block;
+    }
+.form-opt-add-button-group p.submit .button-primary{
+    padding: 20px;
+    line-height: 0;
+    font-size: 14px;
+}
+a#delete_options_group {
+    float: right;
+    background: #d9534f;
+    border-color: #bf0803 #b91712 #c10600;
+}
+.talent_opt_field_gname p.submit {
+    float: right;
+}
+
+
+.hsk-options-group-fields{
+    display: none;
+}
+
+
+.hsk-options-group-fields {
+    background: #fcfcfc;
+    display: none;
+    margin-bottom: 15px;
+    margin-top: -1px;
+    width: 99%;
+    border: 1px solid #dfdfdf;
+    border-bottom: 0;
+    position: absolute;
+    z-index: 5;
+    width: 500px;
+    padding-bottom: 12px;
+    box-shadow: 2px 3px 9px rgba(0, 0, 0, 0.5);
+}
+
+.hsk-group-field-option{
+        background: #fcfcfc;
+    border-bottom: 1px solid #dfdfdf;
+    padding: 10px;
+}
+
+.generate-tab-new-fields td{
+    position: relative;
+}
+
+.hsk-group-field-option label{
+    padding-top: 4px;
+    float: left;
+    width: 30%;
+    max-width: 150px;
+    font-size: 13px;
+}
+.generate-tab-new-fields .hsk-group-field-option select, .generate-tab-new-fields .hsk-group-field-option input{
+    width: 65%;
+}
+a.button-primary.hsk-button-add {
+    margin: 10px 10px 0;
+    float: right;
+}
+
+.fields_options_edit .edit {
+    color: #fff;
+    background-color: #0085ba;
+    border-color: #063142;
+    padding: 4px 15px;
+    margin-top: 0;
+    display: table;
+    border-radius: 3px;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.hsk-group-field-option li {
+    width: 50%;
+    display: inline-flex;
+}
+
+.hsk-group-field-option li label {
+    width: 90%;
+}
+
+.hsk-group-field-option li input {
+    width: 55px!important;
+}
+
+h3.ui-state-active{
+    position: relative;
+}
+h3.ui-state-active span{
+    position: relative;
+}
+.hsk-talent-options-wrapper form .postbox h3 span{
+   cursor: pointer;
+}

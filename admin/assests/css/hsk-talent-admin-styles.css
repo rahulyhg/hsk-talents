@@ -1,0 +1,77 @@
+.hsk-hilight{
+  color: red;
+}
+.hsk-talent-options-wrapper .form-table th{
+    width: 300px;
+}
+table {
+    border-spacing: 0;
+}
+/*----------------------------------------
+ # Talent Profiles Dash Board Widget
+ ---------------------------------------*/
+ul.hsk-user-post-wrapper li {
+    display: block;
+    overflow: hidden;
+}
+ ul.hsk-user-post-wrapper h4{
+ 	float: left;
+ }
+ .hsk-admin-user-post-align {
+    float: right;
+}
+
+.wp-picker-holder{
+	position: absolute;
+	z-index: 1;
+}
+
+/*----------------------------------------
+ # Widget Styles
+ --------------------------------------*/
+ .so-content.panel-dialog label{
+ 	display: block;
+ }
+
+ /*-------------------------------------
+  # Rwmb Meta boxes heading
+  -------------------------------------*/
+  .rwmb-heading-wrapper h4 {
+    background: #f9f9f9;
+    margin: 0 -12px;
+    padding: 10px 12px;
+    border-top: 1px solid rgb(230, 230, 230);
+}
+
+.hsk-talent-options-wrapper #poststuff .postbox h3{
+	cursor: pointer;
+}
+.hsk-widgets-checkboxes label {
+    display: inline-block!important;
+}
+.hsk-widgets-checkboxes label:first-child{
+  display: block!important;
+}
+.talent-single-page-title-buttons-colors{
+  display: none!important;
+}
+/**
+ * Widgets Panel styles
+ */
+.widgets-fields-group-panel{
+  border:1px solid #f3f3f3;
+  padding:20px;
+  margin-bottom: 20px;
+}
+.widgets-fields-group-panel h4{
+  background: #f3f3f3;
+  color: #252525;
+  padding: 12px 15px;
+  margin-left: -20px;
+  margin-top: -20px;
+  margin-right: -20px;
+}
+.widgets-fields-group-panel label {
+    display: block;
+    font-weight: 500;
+}

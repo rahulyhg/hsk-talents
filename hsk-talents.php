@@ -102,6 +102,8 @@ if( !class_exists('HSK_Talents') ){
 			include_once HSK_PLUGIN_DIR . 'admin/sstalents-import-export.php'; // talent options import
 			include_once HSK_PLUGIN_DIR . 'admin/widget-export-data.php'; // Widget Export
 			include_once HSK_PLUGIN_DIR . 'admin/siteorigen-video-bg.php'; // Video BG
+			include_once HSK_PLUGIN_DIR . 'admin/siteorigen-video-bg.php'; // Video BG
+			include_once HSK_PLUGIN_DIR . 'admin/class-admin-dashboard-settings.php'; // Dashboard Settings
 			include_once HSK_PLUGIN_DIR . 'admin/class-customizer-import-export.php'; // customizer export 
 		}
 		/**

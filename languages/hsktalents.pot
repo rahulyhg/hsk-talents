@@ -1,0 +1,3706 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: hsktalents\n"
+"POT-Creation-Date: 2017-10-19 01:22+0530\n"
+"PO-Revision-Date: 2016-01-12 11:28+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.3\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_n;_n_noop;esc_html__;esc_html_e\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../admin/class-admin-dashboard-settings.php:17
+msgid "Add Copy rights text here"
+msgstr ""
+
+#: ../admin/class-admin-dashboard-settings.php:19 ../admin/options-panel.php:16
+msgid "General"
+msgstr ""
+
+#: ../admin/class-admin-dashboard-settings.php:34 ../admin/hsk-meta-tabs.php:26
+msgid "Settings"
+msgstr ""
+
+#: ../admin/class-admin-dashboard-settings.php:85
+msgid "Page Settings"
+msgstr ""
+
+#: ../admin/class-admin-dashboard-settings.php:105
+msgid "User Dashboard Logo Image"
+msgstr ""
+
+#: ../admin/class-admin-dashboard-settings.php:112
+msgid "Upload an image"
+msgstr ""
+
+#: ../admin/class-admin-dashboard-settings.php:112
+msgid "Use image"
+msgstr ""
+
+#: ../admin/class-admin-dashboard-settings.php:112
+msgid "Upload Dashboard Logo Image"
+msgstr ""
+
+#: ../admin/class-admin-dashboard-settings.php:113
+msgid "Remove image"
+msgstr ""
+
+#: ../admin/class-admin-dashboard-settings.php:119
+#: ../admin/class-admin-dashboard-settings.php:124
+#: ../admin/class-admin-dashboard-settings.php:130
+msgid "User Dashoard Welcome Message"
+msgstr ""
+
+#: ../admin/class-admin-dashboard-widgets.php:29
+msgid "User Talent Profiles"
+msgstr ""
+
+#: ../admin/class-admin-dashboard-widgets.php:36
+msgid "User Information"
+msgstr ""
+
+#: ../admin/class-admin-dashboard-widgets.php:42
+msgid "My Profile"
+msgstr ""
+
+#: ../admin/class-admin-dashboard-widgets.php:42 ../admin/options-panel.php:68
+#: ../admin/talents-menu-options/registration-login-fields.php:293
+#: ../lib/library.php:152 ../widgets/hsk-custom-links-pages.php:45
+msgid "Logout"
+msgstr ""
+
+#: ../admin/class-admin-dashboard-widgets.php:44
+msgid "Your Role"
+msgstr ""
+
+#: ../admin/class-admin-dashboard-widgets.php:45 ../functions.php:261
+#: ../lib/library.php:715 ../shortcodes/hsk-forgot-password.php:31
+#: ../shortcodes/hsk-registration.php:58 ../shortcodes/hsk-registration.php:118
+msgid "Email"
+msgstr ""
+
+#: ../admin/class-admin-dashboard-widgets.php:47
+msgid "Phone"
+msgstr ""
+
+#: ../admin/class-admin-functions.php:56
+msgid "Log out"
+msgstr ""
+
+#: ../admin/class-admin-functions.php:64
+msgid "Profile"
+msgstr ""
+
+#: ../admin/class-admin-functions.php:72
+msgid "Visit Site"
+msgstr ""
+
+#: ../admin/class-admin-functions.php:185
+msgid "Your post has been published."
+msgstr ""
+
+#: ../admin/class-admin-functions.php:186
+msgid "Thank you for your submission!"
+msgstr ""
+
+#: ../admin/class-admin-functions.php:218
+#: ../widgets/hsk-team-social-icons.php:163 ../widgets/hsk-team.php:105
+msgid "Upload Image"
+msgstr ""
+
+#: ../admin/class-admin-functions.php:224
+msgid "Upload Category Image"
+msgstr ""
+
+#: ../admin/class-admin-functions.php:225
+#: ../admin/class-admin-functions.php:259
+msgid "Remove Image"
+msgstr ""
+
+#: ../admin/class-admin-functions.php:248
+msgid "Image"
+msgstr ""
+
+#: ../admin/class-admin-functions.php:258
+msgid "Add Image"
+msgstr ""
+
+#: ../admin/class-admin-profile-custom-fields.php:24
+msgid "Social Sharing"
+msgstr ""
+
+#: ../admin/class-admin-profile-custom-fields.php:27
+#: ../admin/class-admin-profile-custom-fields.php:46 ../lib/library.php:456
+msgid "Facebook"
+msgstr ""
+
+#: ../admin/class-admin-profile-custom-fields.php:31
+#: ../admin/class-admin-profile-custom-fields.php:50 ../lib/library.php:459
+msgid "Twitter"
+msgstr ""
+
+#: ../admin/class-admin-profile-custom-fields.php:35
+#: ../admin/class-admin-profile-custom-fields.php:54
+msgid "Google+"
+msgstr ""
+
+#: ../admin/class-admin-profile-custom-fields.php:94
+#: ../shortcodes/hsk-user-profile.php:94
+msgid "Contact Number"
+msgstr ""
+
+#: ../admin/class-admin-talent-cpt.php:40
+msgid "Add New"
+msgstr ""
+
+#: ../admin/class-admin-talent-cpt.php:41
+#, php-format
+msgid "Add New %s "
+msgstr ""
+
+#: ../admin/class-admin-talent-cpt.php:42
+#, php-format
+msgid "Edit %s "
+msgstr ""
+
+#: ../admin/class-admin-talent-cpt.php:43
+#, php-format
+msgid "New %s "
+msgstr ""
+
+#: ../admin/class-admin-talent-cpt.php:44
+#, php-format
+msgid "All %s "
+msgstr ""
+
+#: ../admin/class-admin-talent-cpt.php:45
+#, php-format
+msgid "View %s "
+msgstr ""
+
+#: ../admin/class-admin-talent-cpt.php:46
+#, php-format
+msgid "Search %s "
+msgstr ""
+
+#: ../admin/class-admin-talent-cpt.php:47
+#, php-format
+msgid "No %s  found"
+msgstr ""
+
+#: ../admin/class-admin-talent-cpt.php:48
+#, php-format
+msgid "No  %s found in Trash"
+msgstr ""
+
+#: ../admin/class-admin-talent-cpt.php:123
+msgid "Talent Tags"
+msgstr ""
+
+#: ../admin/class-admin-talent-cpt.php:132
+msgid "Talent Name"
+msgstr ""
+
+#: ../admin/class-admin-talent-cpt.php:133
+msgid "Category"
+msgstr ""
+
+#: ../admin/class-admin-talent-cpt.php:134
+#: ../admin/class-user-restriction.php:109 ../admin/options-panel.php:125
+#: ../admin/talents-menu-options/talent-settings.php:185 ../lib/library.php:493
+msgid "Tags"
+msgstr ""
+
+#: ../admin/class-admin-talent-cpt.php:135
+msgid "Author"
+msgstr ""
+
+#: ../admin/class-admin-talent-cpt.php:136
+msgid "Thumbnail"
+msgstr ""
+
+#: ../admin/class-admin-talent-cpt.php:137
+#: ../admin/custom-meta-options-func.php:112
+#: ../admin/custom-meta-options-func.php:113
+#: ../widgets/hsk-talents-slider.php:123 ../widgets/hsk-talents.php:137
+msgid "Date"
+msgstr ""
+
+#: ../admin/class-admin-talent-cpt.php:160
+msgid "No terms"
+msgstr ""
+
+#: ../admin/class-admin-talent-options.php:21
+msgid "Options"
+msgstr ""
+
+#: ../admin/class-admin-talent-options.php:22
+msgid "Import"
+msgstr ""
+
+#: ../admin/class-admin-talent-options.php:23
+msgid "Export"
+msgstr ""
+
+#: ../admin/class-admin-talent-options.php:45
+#: ../admin/class-admin-talent-options.php:46
+msgid "Label Name( required )"
+msgstr ""
+
+#: ../admin/class-admin-talent-options.php:50
+msgid "Unique Id"
+msgstr ""
+
+#: ../admin/class-admin-talent-options.php:55
+#: ../admin/class-admin-talent-options.php:140
+#: ../admin/class-admin-talent-options.php:172
+msgid "Field Type"
+msgstr ""
+
+#: ../admin/class-admin-talent-options.php:60
+msgid "Options Area"
+msgstr ""
+
+#: ../admin/class-admin-talent-options.php:64
+msgid "Date Format"
+msgstr ""
+
+#: ../admin/class-admin-talent-options.php:68
+msgid "Required"
+msgstr ""
+
+#: ../admin/class-admin-talent-options.php:72
+msgid "Display On Search"
+msgstr ""
+
+#: ../admin/class-admin-talent-options.php:76
+msgid "Visibility to Public"
+msgstr ""
+
+#: ../admin/class-admin-talent-options.php:80
+msgid "Search Range"
+msgstr ""
+
+#: ../admin/class-admin-talent-options.php:88
+msgid "Thumbnail Info"
+msgstr ""
+
+#: ../admin/class-admin-talent-options.php:94
+msgid "Images / Videos Limit Information Based on User Roles"
+msgstr ""
+
+#: ../admin/class-admin-talent-options.php:97
+msgid "Limit"
+msgstr ""
+
+#: ../admin/class-admin-talent-options.php:103
+msgid "Update Field"
+msgstr ""
+
+#: ../admin/class-admin-talent-options.php:120
+msgid "Talent Form Fields"
+msgstr ""
+
+#: ../admin/class-admin-talent-options.php:123
+msgid "All Options are successfully saved"
+msgstr ""
+
+#: ../admin/class-admin-talent-options.php:134
+#: ../admin/class-admin-talent-options.php:165
+msgid "Field Group Title"
+msgstr ""
+
+#: ../admin/class-admin-talent-options.php:141
+#: ../admin/class-admin-talent-options.php:173 ../functions.php:258
+#: ../lib/library.php:277 ../lib/library.php:714
+#: ../widgets/hsk-talents-slider.php:122 ../widgets/hsk-talents.php:136
+msgid "Name"
+msgstr ""
+
+#: ../admin/class-admin-talent-options.php:142
+#: ../admin/class-admin-talent-options.php:174
+msgid "Field ID"
+msgstr ""
+
+#: ../admin/class-admin-talent-options.php:143
+#: ../admin/class-admin-talent-options.php:175
+msgid "Edit"
+msgstr ""
+
+#: ../admin/class-admin-talent-options.php:144
+#: ../admin/class-admin-talent-options.php:176
+msgid "Delete"
+msgstr ""
+
+#: ../admin/class-admin-talent-options.php:200
+msgid "Add Group"
+msgstr ""
+
+#: ../admin/class-admin-talent-options.php:202
+msgid "Save Changes"
+msgstr ""
+
+#: ../admin/class-customizer-import-export.php:13
+msgid "Customize Export"
+msgstr ""
+
+#: ../admin/class-customizer-import-export.php:19
+msgid "Export Customize Options"
+msgstr ""
+
+#: ../admin/class-customizer-import-export.php:20
+#: ../admin/sstalents-import-export.php:20
+msgid ""
+"When you click Backup all options button, system will generate a JSON file."
+msgstr ""
+
+#: ../admin/class-customizer-import-export.php:21
+#: ../admin/sstalents-import-export.php:21
+msgid ""
+"After exporting, you can either use the backup file to restore your settings "
+"on this site again or another WordPress site."
+msgstr ""
+
+#: ../admin/class-customizer-import-export.php:25
+msgid "Backup Customize Options"
+msgstr ""
+
+#: ../admin/class-user-restriction.php:55
+msgid "User Role Restrictions"
+msgstr ""
+
+#: ../admin/class-user-restriction.php:85
+msgid "CPT Posts Limit Restriction Based On User Roels"
+msgstr ""
+
+#: ../admin/class-user-restriction.php:89
+msgid "CPT Post"
+msgstr ""
+
+#: ../admin/class-user-restriction.php:109 ../admin/hsk-meta-tabs.php:200
+msgid "Choose Group"
+msgstr ""
+
+#: ../admin/class-user-restriction.php:109 ../admin/hsk-meta-tabs.php:407
+#: ../admin/hsk-meta-tabs.php:423
+msgid "Featured Talent"
+msgstr ""
+
+#: ../admin/class-user-restriction.php:109
+msgid "Socail Sharing Id's"
+msgstr ""
+
+#: ../admin/class-user-restriction.php:109
+msgid "Talent status"
+msgstr ""
+
+#: ../admin/class-user-restriction.php:109 ../admin/hsk-meta-tabs.php:75
+msgid "Talent Unique ID"
+msgstr ""
+
+#: ../admin/class-user-restriction.php:109 ../admin/hsk-meta-tabs.php:153
+msgid "Talent Status"
+msgstr ""
+
+#: ../admin/class-user-restriction.php:111
+msgid "Remove Metapanels Based On User Roels"
+msgstr ""
+
+#: ../admin/class-user-restriction.php:111
+msgid "( Check this box to remove metabox panels from talent cpt post) "
+msgstr ""
+
+#: ../admin/class-user-restriction.php:115
+msgid "Metapanels"
+msgstr ""
+
+#: ../admin/custom-meta-options-func.php:9
+msgid "Talent Options Data Export"
+msgstr ""
+
+#: ../admin/custom-meta-options-func.php:13
+msgid "Dowload Talent Data"
+msgstr ""
+
+#: ../admin/custom-meta-options-func.php:42
+msgid "Options Data Import"
+msgstr ""
+
+#: ../admin/custom-meta-options-func.php:61
+#: ../admin/importer/hsk-demo-importer.php:430
+msgid "All options are restored successfully"
+msgstr ""
+
+#: ../admin/custom-meta-options-func.php:64
+msgid "Invalid file or file size too big."
+msgstr ""
+
+#: ../admin/custom-meta-options-func.php:68
+msgid "Click Browse button and choose a json file that you backup before."
+msgstr ""
+
+#: ../admin/custom-meta-options-func.php:69
+msgid "Press Upload File and Import, WordPress do the rest for you."
+msgstr ""
+
+#: ../admin/custom-meta-options-func.php:74
+msgid "Upload File and Import"
+msgstr ""
+
+#: ../admin/custom-meta-options-func.php:86
+#: ../admin/custom-meta-options-func.php:87
+msgid "Text"
+msgstr ""
+
+#: ../admin/custom-meta-options-func.php:89
+#: ../shortcodes/hsk-user-profile.php:90
+msgid "Website"
+msgstr ""
+
+#: ../admin/custom-meta-options-func.php:91
+msgid "Email ID"
+msgstr ""
+
+#: ../admin/custom-meta-options-func.php:93
+#: ../shortcodes/hsk-registration.php:62
+msgid "Phone Number"
+msgstr ""
+
+#: ../admin/custom-meta-options-func.php:96
+msgid "Options Heading"
+msgstr ""
+
+#: ../admin/custom-meta-options-func.php:97
+msgid "Panel Title"
+msgstr ""
+
+#: ../admin/custom-meta-options-func.php:100
+#: ../admin/custom-meta-options-func.php:106
+msgid "Paragraph"
+msgstr ""
+
+#: ../admin/custom-meta-options-func.php:101
+msgid "Text Area"
+msgstr ""
+
+#: ../admin/custom-meta-options-func.php:102
+msgid "WYSIWYG (Visual Editor)"
+msgstr ""
+
+#: ../admin/custom-meta-options-func.php:107
+msgid "Checkbox"
+msgstr ""
+
+#: ../admin/custom-meta-options-func.php:108
+msgid "Select"
+msgstr ""
+
+#: ../admin/custom-meta-options-func.php:109
+msgid "Radio"
+msgstr ""
+
+#: ../admin/custom-meta-options-func.php:114
+msgid "Date Of Birth"
+msgstr ""
+
+#: ../admin/custom-meta-options-func.php:117
+msgid "Media"
+msgstr ""
+
+#: ../admin/custom-meta-options-func.php:118
+msgid "Images"
+msgstr ""
+
+#: ../admin/custom-meta-options-func.php:120
+msgid "Compcard"
+msgstr ""
+
+#: ../admin/custom-meta-options-func.php:122
+msgid "Videos"
+msgstr ""
+
+#: ../admin/custom-meta-options-func.php:132 ../widgets/hsk-facebook.php:45
+#: ../widgets/hsk-facebook.php:52 ../widgets/hsk-facebook.php:59
+#: ../widgets/hsk-img-boxes.php:124 ../widgets/hsk-talents.php:106
+#: ../widgets/hsk-talents.php:189
+msgid "True"
+msgstr ""
+
+#: ../admin/custom-meta-options-func.php:133 ../widgets/hsk-facebook.php:46
+#: ../widgets/hsk-facebook.php:53 ../widgets/hsk-facebook.php:60
+#: ../widgets/hsk-img-boxes.php:125 ../widgets/hsk-talents.php:105
+#: ../widgets/hsk-talents.php:190
+msgid "False"
+msgstr ""
+
+#: ../admin/custom-meta-options-func.php:141
+msgid "DD-MM-YYYY"
+msgstr ""
+
+#: ../admin/custom-meta-options-func.php:142
+msgid "YYYY-MM-DD"
+msgstr ""
+
+#: ../admin/custom-meta-options-func.php:143
+msgid "MM-DD-YYYY"
+msgstr ""
+
+#: ../admin/hsk-admin-functions.php:18
+msgid "Choose Option"
+msgstr ""
+
+#: ../admin/hsk-admin-functions.php:43
+msgid "User"
+msgstr ""
+
+#: ../admin/hsk-meta-tabs.php:32
+msgid "Client Description"
+msgstr ""
+
+#: ../admin/hsk-meta-tabs.php:37
+msgid "Client Designation"
+msgstr ""
+
+#: ../admin/hsk-meta-tabs.php:42
+msgid "Client Link"
+msgstr ""
+
+#: ../admin/hsk-meta-tabs.php:52
+msgid "Email & Phone Verification Settings"
+msgstr ""
+
+#: ../admin/hsk-meta-tabs.php:58
+msgid "Email ID Verified"
+msgstr ""
+
+#: ../admin/hsk-meta-tabs.php:59
+msgid "Check this box to verified talent email id"
+msgstr ""
+
+#: ../admin/hsk-meta-tabs.php:64
+msgid "Phone Number Verified"
+msgstr ""
+
+#: ../admin/hsk-meta-tabs.php:65
+msgid "Check this box to verified talent phone number"
+msgstr ""
+
+#: ../admin/hsk-meta-tabs.php:93
+msgid "Social Sharing ID's"
+msgstr ""
+
+#: ../admin/hsk-meta-tabs.php:99
+msgid "Facebook ID"
+msgstr ""
+
+#: ../admin/hsk-meta-tabs.php:105
+msgid "Twitter ID"
+msgstr ""
+
+#: ../admin/hsk-meta-tabs.php:111
+msgid "Instagram ID"
+msgstr ""
+
+#: ../admin/hsk-meta-tabs.php:118
+msgid "Pinterest ID"
+msgstr ""
+
+#: ../admin/hsk-meta-tabs.php:124
+msgid "Google Plus ID"
+msgstr ""
+
+#: ../admin/hsk-meta-tabs.php:130
+msgid "Linkedin ID"
+msgstr ""
+
+#: ../admin/hsk-meta-tabs.php:137
+msgid "Youtube ID"
+msgstr ""
+
+#: ../admin/hsk-meta-tabs.php:143 ../widgets/hsk-flickr-widgets.php:81
+msgid "Flickr ID"
+msgstr ""
+
+#: ../admin/hsk-meta-tabs.php:164
+msgid "Available"
+msgstr ""
+
+#: ../admin/hsk-meta-tabs.php:165
+msgid "Out of Station"
+msgstr ""
+
+#: ../admin/hsk-meta-tabs.php:206
+msgid "Choose Talent Group"
+msgstr ""
+
+#: ../admin/hsk-meta-tabs.php:302 ../admin/hsk-meta-tabs.php:356
+msgid "(yyyy-mm-dd)"
+msgstr ""
+
+#: ../admin/hsk-meta-tabs.php:303 ../admin/hsk-meta-tabs.php:359
+msgid "yy-mm-dd"
+msgstr ""
+
+#: ../admin/hsk-meta-tabs.php:358
+msgid "Select Date"
+msgstr ""
+
+#: ../admin/hsk-meta-tabs.php:419
+msgid "Check if this is a featured Talent "
+msgstr ""
+
+#: ../admin/importer/hsk-demo-importer.php:136
+#: ../admin/importer/hsk-demo-importer.php:233
+msgid "Import Demo Data"
+msgstr ""
+
+#: ../admin/importer/hsk-demo-importer.php:192
+msgid ""
+"Importing demo data (post, pages, images, theme settings, ...) is the "
+"easiest way to setup your theme. It will allow you to quickly edit "
+"everything instead of creating content from scratch. When you import the "
+"data following things will happen"
+msgstr ""
+
+#: ../admin/importer/hsk-demo-importer.php:195
+msgid ""
+"No existing posts, pages, categories, images, custom post types or any other "
+"data will be deleted or modified ."
+msgstr ""
+
+#: ../admin/importer/hsk-demo-importer.php:196
+msgid "No WordPress settings will be modified ."
+msgstr ""
+
+#: ../admin/importer/hsk-demo-importer.php:197
+msgid "Posts, pages, some images, some widgets and menus will get imported ."
+msgstr ""
+
+#: ../admin/importer/hsk-demo-importer.php:198
+msgid "Please click import only once and wait, it can take a couple of minutes"
+msgstr ""
+
+#: ../admin/importer/hsk-demo-importer.php:202
+msgid "Before you begin, make sure all the required plugins are activated."
+msgstr ""
+
+#: ../admin/importer/hsk-demo-importer.php:209
+msgid "Demo already imported"
+msgstr ""
+
+#: ../admin/importer/hsk-demo-importer.php:229
+msgid "Import Again"
+msgstr ""
+
+#: ../admin/importer/hsk-demo-importer.php:378
+msgid ""
+"The XML file containing the dummy content is not available or could not be "
+"read .. You might want to try to set the file permission to chmod 755.<br/"
+">If this doesn't work please use the Wordpress importer and import the XML "
+"file (should be located in your download .zip: Sample Content folder) "
+"manually "
+msgstr ""
+
+#: ../admin/importer/hsk-demo-importer.php:479
+msgid "Theme options Import file could not be found. Please try again."
+msgstr ""
+
+#: ../admin/importer/hsk-demo-importer.php:537
+msgid "Widget Import file could not be found. Please try again."
+msgstr ""
+
+#: ../admin/importer/hsk-demo-importer.php:610
+msgid "Sidebar does not exist in theme (using Inactive)"
+msgstr ""
+
+#: ../admin/importer/hsk-demo-importer.php:632
+msgid "Site does not support widget"
+msgstr ""
+
+#: ../admin/importer/hsk-demo-importer.php:655
+msgid "Widget already exists"
+msgstr ""
+
+#: ../admin/importer/hsk-demo-importer.php:704
+msgid "Imported"
+msgstr ""
+
+#: ../admin/importer/hsk-demo-importer.php:707
+msgid "Imported to Inactive"
+msgstr ""
+
+#: ../admin/importer/hsk-demo-importer.php:714
+msgid "No Title"
+msgstr ""
+
+#: ../admin/importer/parsers.php:42 ../admin/importer/parsers.php:63
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: ../admin/importer/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: ../admin/importer/parsers.php:67 ../admin/importer/parsers.php:72
+#: ../admin/importer/parsers.php:264 ../admin/importer/parsers.php:449
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: ../admin/importer/wordpress-importer.php:134
+#: ../admin/importer/wordpress-importer.php:143
+#: ../admin/importer/wordpress-importer.php:194
+#: ../admin/importer/wordpress-importer.php:198
+#: ../admin/importer/wordpress-importer.php:207
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: ../admin/importer/wordpress-importer.php:135
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: ../admin/importer/wordpress-importer.php:178
+msgid "All done."
+msgstr ""
+
+#: ../admin/importer/wordpress-importer.php:178
+msgid "Have fun!"
+msgstr ""
+
+#: ../admin/importer/wordpress-importer.php:179
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: ../admin/importer/wordpress-importer.php:199
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: ../admin/importer/wordpress-importer.php:215
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: ../admin/importer/wordpress-importer.php:240
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: ../admin/importer/wordpress-importer.php:266
+msgid "Assign Authors"
+msgstr ""
+
+#: ../admin/importer/wordpress-importer.php:267
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+
+#: ../admin/importer/wordpress-importer.php:269
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: ../admin/importer/wordpress-importer.php:279
+msgid "Import Attachments"
+msgstr ""
+
+#: ../admin/importer/wordpress-importer.php:282
+msgid "Download and import file attachments"
+msgstr ""
+
+#: ../admin/importer/wordpress-importer.php:299
+msgid "Import author:"
+msgstr ""
+
+#: ../admin/importer/wordpress-importer.php:310
+msgid "or create new user with login name:"
+msgstr ""
+
+#: ../admin/importer/wordpress-importer.php:313
+msgid "as a new user:"
+msgstr ""
+
+#: ../admin/importer/wordpress-importer.php:321
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: ../admin/importer/wordpress-importer.php:323
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: ../admin/importer/wordpress-importer.php:324
+msgid "- Select -"
+msgstr ""
+
+#: ../admin/importer/wordpress-importer.php:374
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: ../admin/importer/wordpress-importer.php:423
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: ../admin/importer/wordpress-importer.php:461
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: ../admin/importer/wordpress-importer.php:505
+#: ../admin/importer/wordpress-importer.php:631
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: ../admin/importer/wordpress-importer.php:527
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: ../admin/importer/wordpress-importer.php:548
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: ../admin/importer/wordpress-importer.php:603
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: ../admin/importer/wordpress-importer.php:749
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: ../admin/importer/wordpress-importer.php:756
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: ../admin/importer/wordpress-importer.php:819
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: ../admin/importer/wordpress-importer.php:832
+msgid "Invalid file type"
+msgstr ""
+
+#: ../admin/importer/wordpress-importer.php:890
+#, php-format
+msgid "Remote server returned %1$d %2$s for %3$s"
+msgstr ""
+
+#: ../admin/importer/wordpress-importer.php:903
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: ../admin/importer/wordpress-importer.php:908
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: ../admin/importer/wordpress-importer.php:914
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: ../admin/importer/wordpress-importer.php:1013
+msgid "Import WordPress"
+msgstr ""
+
+#: ../admin/importer/wordpress-importer.php:1020
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: ../admin/importer/wordpress-importer.php:1035
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: ../admin/importer/wordpress-importer.php:1036
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: ../admin/options-panel.php:8
+#: ../admin/talents-menu-options/general-settings.php:9
+msgid "Please, you must login"
+msgstr ""
+
+#: ../admin/options-panel.php:23
+#: ../admin/talents-menu-options/registration-login-fields.php:39
+msgid "Email Already Exist"
+msgstr ""
+
+#: ../admin/options-panel.php:26
+#: ../admin/talents-menu-options/registration-login-fields.php:33
+#: ../shortcodes/hsk-user-profile.php:33
+msgid "Enter Valid Email"
+msgstr ""
+
+#: ../admin/options-panel.php:29
+#: ../admin/talents-menu-options/registration-login-fields.php:46
+msgid "User Already Exist"
+msgstr ""
+
+#: ../admin/options-panel.php:32
+#: ../admin/talents-menu-options/registration-login-fields.php:53
+msgid ""
+"You Have Registred Successfully, Please Login with your login credentials"
+msgstr ""
+
+#: ../admin/options-panel.php:35 ../admin/options-panel.php:44
+#: ../admin/talents-menu-options/registration-login-fields.php:60
+#: ../shortcodes/hsk-registration.php:104
+msgid "User Login Details"
+msgstr ""
+
+#: ../admin/options-panel.php:38
+msgid ""
+"Thankyou registering with us, please login with above user name & password. "
+"For any assistance please contact admin "
+msgstr ""
+
+#: ../admin/options-panel.php:41
+msgid "Register"
+msgstr ""
+
+#: ../admin/options-panel.php:50
+#: ../admin/talents-menu-options/registration-login-fields.php:132
+#: ../shortcodes/hsk-login.php:70
+msgid "Error Login, Please check your user name / password."
+msgstr ""
+
+#: ../admin/options-panel.php:53
+msgid "Please wait, your are logging"
+msgstr ""
+
+#: ../admin/options-panel.php:59
+#: ../admin/talents-menu-options/registration-login-fields.php:183
+msgid "Please Enter your email id, the password will send your email"
+msgstr ""
+
+#: ../admin/options-panel.php:62
+#: ../admin/talents-menu-options/registration-login-fields.php:189
+#: ../shortcodes/hsk-forgot-password.php:35
+msgid "Forgot Password"
+msgstr ""
+
+#: ../admin/options-panel.php:77
+#: ../admin/talents-menu-options/registration-login-fields.php:234
+#: ../shortcodes/hsk-user-profile.php:65
+msgid "Your Profile has been updated successfully"
+msgstr ""
+
+#: ../admin/options-panel.php:80 ../shortcodes/hsk-user-profile.php:114
+msgid "Update Profile"
+msgstr ""
+
+#: ../admin/options-panel.php:83
+#: ../admin/talents-menu-options/registration-login-fields.php:248
+#: ../shortcodes/hsk-user-profile.php:68
+msgid "Error, While updating your profile"
+msgstr ""
+
+#: ../admin/options-panel.php:86
+#: ../admin/talents-menu-options/registration-login-fields.php:241
+#: ../shortcodes/hsk-user-profile.php:26
+msgid "The passwords you entered do not match. Your password was not updated"
+msgstr ""
+
+#: ../admin/options-panel.php:88
+msgid "Registration / Login"
+msgstr ""
+
+#: ../admin/options-panel.php:104
+#: ../admin/talents-menu-options/talent-settings.php:53
+msgid "Favarative"
+msgstr ""
+
+#: ../admin/options-panel.php:107
+#: ../admin/talents-menu-options/talent-settings.php:65
+msgid "Following"
+msgstr ""
+
+#: ../admin/options-panel.php:110 ../lib/library.php:355
+msgid "Enquiry"
+msgstr ""
+
+#: ../admin/options-panel.php:113
+#: ../admin/talents-menu-options/talent-settings.php:89
+msgid "Share On"
+msgstr ""
+
+#: ../admin/options-panel.php:116
+#: ../admin/talents-menu-options/talent-settings.php:140
+#: ../admin/talents-menu-options/talent-settings.php:142
+msgid "Talents Views Text Change"
+msgstr ""
+
+#: ../admin/options-panel.php:131
+#: ../admin/talents-menu-options/talent-settings.php:171 ../lib/library.php:453
+msgid "Follow Us On"
+msgstr ""
+
+#: ../admin/options-panel.php:134
+#: ../admin/talents-menu-options/talent-settings.php:157
+msgid "Dedication"
+msgstr ""
+
+#: ../admin/options-panel.php:143
+#: ../admin/talents-menu-options/talent-settings.php:122
+msgid "Account ID"
+msgstr ""
+
+#: ../admin/options-panel.php:155
+#: ../admin/talents-menu-options/talent-settings.php:109 ../functions.php:380
+#: ../functions.php:437
+msgid "Review & Rating"
+msgstr ""
+
+#: ../admin/options-panel.php:176
+msgid "Talents"
+msgstr ""
+
+#: ../admin/options-panel.php:189
+#: ../admin/talents-menu-options/favourite-settings.php:58
+#: ../shortcodes/hsk-shortlist.php:37
+msgid "Clear favouritive"
+msgstr ""
+
+#: ../admin/options-panel.php:192
+#: ../admin/talents-menu-options/favourite-settings.php:74
+#: ../shortcodes/hsk-shortlist.php:40
+msgid "Share favouritive"
+msgstr ""
+
+#: ../admin/options-panel.php:195
+#: ../admin/talents-menu-options/favourite-settings.php:90
+msgid "Print favouritive"
+msgstr ""
+
+#: ../admin/options-panel.php:221
+#: ../admin/talents-menu-options/favourite-settings.php:3
+msgid "Favourite (Shortlist) Section"
+msgstr ""
+
+#: ../admin/options-panel.php:249
+#: ../admin/talents-menu-options/search-form-colors.php:16
+#: ../lib/library.php:1010
+msgid "Search"
+msgstr ""
+
+#: ../admin/options-panel.php:251
+#: ../admin/talents-menu-options/search-form-colors.php:4
+msgid "Search Section"
+msgstr ""
+
+#: ../admin/options-panel.php:349
+msgid "Colors"
+msgstr ""
+
+#: ../admin/options-panel.php:364
+msgid " Hsk Talents"
+msgstr ""
+
+#: ../admin/options-panel.php:364
+msgid "Hsk Talents"
+msgstr ""
+
+#: ../admin/options-panel.php:415
+msgid "HSK Talents Options Page Settings"
+msgstr ""
+
+#: ../admin/siteorigen-video-bg.php:147 ../admin/siteorigen-video-bg.php:165
+msgid "Background Video"
+msgstr ""
+
+#: ../admin/siteorigen-video-bg.php:168
+msgid ""
+"Looking for great background videos? Try <a style=\"font-weight: bold;\" "
+"href=\"https://html5backgroundvideos.com/?utm_source=SO%20Video%20Backgrounds"
+"%20Addon&utm_medium=Text%20Link&utm_content=Intro%20on%20background"
+"%20tab&utm_campaign=WordPress%20Plugins\" target=\"_blank\">BG&nbsp;Stock</"
+"a> - a library of stock videos specifically for website backgrounds."
+msgstr ""
+
+#: ../admin/siteorigen-video-bg.php:177
+msgid "Mp4 URL"
+msgstr ""
+
+#: ../admin/siteorigen-video-bg.php:180
+msgid ""
+"Required file type. We recommend using <a href=\"https://"
+"html5backgroundvideos.com/converter?utm_source=SO%20Video%20Backgrounds"
+"%20Addon&utm_medium=Text%20Link&utm_content=Files%20section%20of%20background"
+"%20tab&utm_campaign=WordPress%20Plugins\" target=\"_blank\">this converter</"
+"a> to generate your background video files."
+msgstr ""
+
+#: ../admin/siteorigen-video-bg.php:187
+msgid "WebM URL"
+msgstr ""
+
+#: ../admin/siteorigen-video-bg.php:190
+msgid "Recommended file type."
+msgstr ""
+
+#: ../admin/siteorigen-video-bg.php:197
+msgid "Ogg URL"
+msgstr ""
+
+#: ../admin/siteorigen-video-bg.php:200
+msgid "Optional file type."
+msgstr ""
+
+#: ../admin/siteorigen-video-bg.php:217
+msgid "Poster / fallback image URL"
+msgstr ""
+
+#: ../admin/siteorigen-video-bg.php:220
+msgid ""
+"This image will be used on devices that don't support background video, and "
+"will be displayed while the video is loading. We recommend a high-quality "
+"screenshot of one of the first few frames. For best results, you should also "
+"set this as the background image for this row."
+msgstr ""
+
+#: ../admin/siteorigen-video-bg.php:229
+msgid "Video Overlay"
+msgstr ""
+
+#: ../admin/siteorigen-video-bg.php:232
+msgid ""
+"An overlay can help to provide contrast with your row content, or disguise "
+"low quality video."
+msgstr ""
+
+#: ../admin/siteorigen-video-bg.php:245
+msgid "Overlay Opacity"
+msgstr ""
+
+#: ../admin/siteorigen-video-bg.php:248
+msgid ""
+"Enter a number between 0 and 99. (Only relevant if you choose an overlay "
+"type)"
+msgstr ""
+
+#: ../admin/siteorigen-video-bg.php:255
+msgid "Overlay Color"
+msgstr ""
+
+#: ../admin/siteorigen-video-bg.php:258
+msgid "(Only relevant if you choose a colored overlay)"
+msgstr ""
+
+#: ../admin/siteorigen-video-bg.php:265
+msgid "Overlay Pattern"
+msgstr ""
+
+#: ../admin/siteorigen-video-bg.php:268
+msgid ""
+"(Only relevant if you set overlay type to a pattern). Patterns are "
+"especially good at disguising low quality video. See a demo of these "
+"patterns <a href=\"https://html5backgroundvideos.com/pattern-overlays?"
+"utm_source=SO%20Video%20Backgrounds%20Addon&utm_medium=Text"
+"%20Link&utm_content=Pattern%20dropdown%20description&utm_campaign=WordPress"
+"%20Plugins\" target=\"_blank\">here</a>."
+msgstr ""
+
+#: ../admin/siteorigen-video-bg.php:294
+msgid "Fade in on start?"
+msgstr ""
+
+#: ../admin/siteorigen-video-bg.php:298
+msgid "Fading the video in on start can help avoid distracting the user."
+msgstr ""
+
+#: ../admin/siteorigen-video-bg.php:304
+msgid "Pause video after..."
+msgstr ""
+
+#: ../admin/siteorigen-video-bg.php:308
+msgid ""
+"Enter a number of seconds to play before pausing, or 0 for no pause. We "
+"recommend pausing after a while and fading out, to reduce your users' power "
+"consumption."
+msgstr ""
+
+#: ../admin/siteorigen-video-bg.php:314
+msgid "Add pause/play button?"
+msgstr ""
+
+#: ../admin/siteorigen-video-bg.php:318
+msgid "It's a good idea to allow your user to pause the video if they wish."
+msgstr ""
+
+#: ../admin/siteorigen-video-bg.php:324
+msgid "Pause/play button X position"
+msgstr ""
+
+#: ../admin/siteorigen-video-bg.php:327 ../admin/siteorigen-video-bg.php:342
+msgid "(Only relevant if you check \"Add pause/play button\")"
+msgstr ""
+
+#: ../admin/siteorigen-video-bg.php:339
+msgid "Pause/play button Y position"
+msgstr ""
+
+#: ../admin/siteorigen-video-bg.php:362
+msgid "Example Background Video"
+msgstr ""
+
+#: ../admin/siteorigen-video-bg.php:363
+msgid "A pre-built background video layer with a simple text widget."
+msgstr ""
+
+#: ../admin/sstalents-import-export.php:13
+msgid "HSK-Talents Export"
+msgstr ""
+
+#: ../admin/sstalents-import-export.php:13
+msgid "HSK-Talents export"
+msgstr ""
+
+#: ../admin/sstalents-import-export.php:19
+msgid "Export Options"
+msgstr ""
+
+#: ../admin/sstalents-import-export.php:25
+msgid "Backup Options"
+msgstr ""
+
+#: ../admin/talents-menu-options/color-settings.php:4
+msgid "Form Color Section"
+msgstr ""
+
+#: ../admin/talents-menu-options/color-settings.php:6
+#: ../admin/talents-menu-options/color-settings.php:43
+#: ../admin/talents-menu-options/color-settings.php:85
+#: ../admin/talents-menu-options/color-settings.php:180
+#: ../admin/talents-menu-options/color-settings.php:235
+#: ../admin/talents-menu-options/registration-login-fields.php:6
+#: ../admin/talents-menu-options/registration-login-fields.php:27
+#: ../admin/talents-menu-options/registration-login-fields.php:40
+#: ../admin/talents-menu-options/registration-login-fields.php:47
+#: ../admin/talents-menu-options/registration-login-fields.php:54
+#: ../admin/talents-menu-options/registration-login-fields.php:61
+#: ../admin/talents-menu-options/registration-login-fields.php:68
+#: ../admin/talents-menu-options/registration-login-fields.php:126
+#: ../admin/talents-menu-options/registration-login-fields.php:133
+#: ../admin/talents-menu-options/registration-login-fields.php:140
+#: ../admin/talents-menu-options/registration-login-fields.php:221
+#: ../admin/talents-menu-options/registration-login-fields.php:228
+#: ../admin/talents-menu-options/registration-login-fields.php:235
+#: ../admin/talents-menu-options/registration-login-fields.php:249
+#: ../admin/talents-menu-options/registration-login-fields.php:287
+#: ../admin/talents-menu-options/talent-settings.php:5
+#: ../widgets/hsk-role-based-links.php:196
+msgid "Note: "
+msgstr ""
+
+#: ../admin/talents-menu-options/color-settings.php:6
+msgid ""
+"Colors applied for \"Login / Registation / Forgot password and Profile \" "
+"forms"
+msgstr ""
+
+#: ../admin/talents-menu-options/color-settings.php:9
+msgid "Form Fields BG Color "
+msgstr ""
+
+#: ../admin/talents-menu-options/color-settings.php:15
+#: ../admin/talents-menu-options/search-form-colors.php:32
+msgid "Form Fields Border Color "
+msgstr ""
+
+#: ../admin/talents-menu-options/color-settings.php:21
+#: ../admin/talents-menu-options/search-form-colors.php:38
+msgid "Form Fields Color "
+msgstr ""
+
+#: ../admin/talents-menu-options/color-settings.php:27
+msgid "Form Fields Error Border Color "
+msgstr ""
+
+#: ../admin/talents-menu-options/color-settings.php:41
+msgid "Talents Taxonomy Colors"
+msgstr ""
+
+#: ../admin/talents-menu-options/color-settings.php:43
+msgid ""
+"Colors applied for Talent taxonomy page.(when add to talent categories to "
+"menu( Goto > Appearance > menu ))"
+msgstr ""
+
+#: ../admin/talents-menu-options/color-settings.php:46
+msgid "Talents Detials BG Color "
+msgstr ""
+
+#: ../admin/talents-menu-options/color-settings.php:52
+msgid "Talents Details Color "
+msgstr ""
+
+#: ../admin/talents-menu-options/color-settings.php:58
+#: ../admin/talents-menu-options/color-settings.php:190
+#: ../widgets/callout.php:158 ../widgets/feature_box.php:139
+#: ../widgets/hsk-content-box.php:152 ../widgets/hsk-img-boxes.php:114
+#: ../widgets/hsk-team.php:139 ../widgets/hsk-title.php:87
+msgid "Title Color"
+msgstr ""
+
+#: ../admin/talents-menu-options/color-settings.php:64
+msgid "Favarative Icon Color "
+msgstr ""
+
+#: ../admin/talents-menu-options/color-settings.php:70
+msgid "Favarative Active Icon Color "
+msgstr ""
+
+#: ../admin/talents-menu-options/color-settings.php:83
+msgid "Talents Single Page Titlebar Buttons Color Section"
+msgstr ""
+
+#: ../admin/talents-menu-options/color-settings.php:85
+msgid "Colors applied for \"Talent Single page\" Page titlebar "
+msgstr ""
+
+#: ../admin/talents-menu-options/color-settings.php:87
+#: ../admin/talents-menu-options/talent-settings.php:42
+msgid "Click this attatchment for more "
+msgstr ""
+
+#: ../admin/talents-menu-options/color-settings.php:87
+#: ../admin/talents-menu-options/talent-settings.php:42
+msgid " information"
+msgstr ""
+
+#: ../admin/talents-menu-options/color-settings.php:92
+msgid "Talent Single Page Titlebar BG Color "
+msgstr ""
+
+#: ../admin/talents-menu-options/color-settings.php:98
+msgid "Talent Single Page Title Image Border Color "
+msgstr ""
+
+#: ../admin/talents-menu-options/color-settings.php:104
+msgid "Talent Single Page Title Color "
+msgstr ""
+
+#: ../admin/talents-menu-options/color-settings.php:110
+msgid "Talent Single Page Content Color "
+msgstr ""
+
+#: ../admin/talents-menu-options/color-settings.php:117
+msgid "Titlebar Rating Color "
+msgstr ""
+
+#: ../admin/talents-menu-options/color-settings.php:123
+msgid "Favarative Button BG Color "
+msgstr ""
+
+#: ../admin/talents-menu-options/color-settings.php:129
+msgid "Favarative Button Color"
+msgstr ""
+
+#: ../admin/talents-menu-options/color-settings.php:135
+msgid "Following Button BG Color "
+msgstr ""
+
+#: ../admin/talents-menu-options/color-settings.php:141
+msgid "Following Button Color"
+msgstr ""
+
+#: ../admin/talents-menu-options/color-settings.php:147
+msgid "Enquiery Button BG Color "
+msgstr ""
+
+#: ../admin/talents-menu-options/color-settings.php:153
+msgid "Enquiery Button Color "
+msgstr ""
+
+#: ../admin/talents-menu-options/color-settings.php:159
+msgid "Shareon Button BG Color "
+msgstr ""
+
+#: ../admin/talents-menu-options/color-settings.php:165
+msgid "Share on Button Color "
+msgstr ""
+
+#: ../admin/talents-menu-options/color-settings.php:178
+msgid "Talents Single Page Left Section"
+msgstr ""
+
+#: ../admin/talents-menu-options/color-settings.php:180
+msgid "Colors applied for \"Talent Single page\" Left Section"
+msgstr ""
+
+#: ../admin/talents-menu-options/color-settings.php:184
+#: ../widgets/hsk-talents.php:161
+msgid "Title Background Color"
+msgstr ""
+
+#: ../admin/talents-menu-options/color-settings.php:196
+msgid "Content BG Color"
+msgstr ""
+
+#: ../admin/talents-menu-options/color-settings.php:202
+msgid "Content Color"
+msgstr ""
+
+#: ../admin/talents-menu-options/color-settings.php:208
+msgid "Content Link Color"
+msgstr ""
+
+#: ../admin/talents-menu-options/color-settings.php:214
+msgid "Content Link Hover Color"
+msgstr ""
+
+#: ../admin/talents-menu-options/color-settings.php:220
+msgid "Rating Color "
+msgstr ""
+
+#: ../admin/talents-menu-options/color-settings.php:233
+msgid "Talents Single Page Right Section"
+msgstr ""
+
+#: ../admin/talents-menu-options/color-settings.php:235
+msgid "Colors applied for \"Talent Single page\" Right Section"
+msgstr ""
+
+#: ../admin/talents-menu-options/color-settings.php:239
+msgid "Tabs Background Color"
+msgstr ""
+
+#: ../admin/talents-menu-options/color-settings.php:245
+msgid "Tabs Color"
+msgstr ""
+
+#: ../admin/talents-menu-options/color-settings.php:252
+msgid "Tabs Active Background Color"
+msgstr ""
+
+#: ../admin/talents-menu-options/color-settings.php:258
+msgid "Tabs Active Link Color"
+msgstr ""
+
+#: ../admin/talents-menu-options/favourite-settings.php:8
+msgid "Disable Favourite Section"
+msgstr ""
+
+#: ../admin/talents-menu-options/favourite-settings.php:11
+msgid "Disable all Favourite( Shortlist ) section in theme"
+msgstr ""
+
+#: ../admin/talents-menu-options/favourite-settings.php:16
+#: ../admin/talents-menu-options/favourite-settings.php:28
+msgid "Choose Favourite Page"
+msgstr ""
+
+#: ../admin/talents-menu-options/favourite-settings.php:42
+msgid "Favourite (Shortlist) Page Buttons Settings"
+msgstr ""
+
+#: ../admin/talents-menu-options/favourite-settings.php:48
+msgid "Disable Clear Favourite"
+msgstr ""
+
+#: ../admin/talents-menu-options/favourite-settings.php:51
+#: ../admin/talents-menu-options/favourite-settings.php:83
+msgid "Disable Clear Favourite Button"
+msgstr ""
+
+#: ../admin/talents-menu-options/favourite-settings.php:56
+msgid "Clear favouritive Button Text"
+msgstr ""
+
+#: ../admin/talents-menu-options/favourite-settings.php:64
+#: ../admin/talents-menu-options/favourite-settings.php:67
+msgid "Disable Share Favourite Button"
+msgstr ""
+
+#: ../admin/talents-menu-options/favourite-settings.php:72
+msgid "Share favouritive Button Text"
+msgstr ""
+
+#: ../admin/talents-menu-options/favourite-settings.php:80
+msgid "Disable Print Button"
+msgstr ""
+
+#: ../admin/talents-menu-options/favourite-settings.php:88
+msgid "Print Button Text"
+msgstr ""
+
+#: ../admin/talents-menu-options/favourite-settings.php:102
+msgid "Favourite Page Buttons Color Section"
+msgstr ""
+
+#: ../admin/talents-menu-options/favourite-settings.php:106
+msgid "Buttons Background Color "
+msgstr ""
+
+#: ../admin/talents-menu-options/favourite-settings.php:113
+msgid "Buttons Color "
+msgstr ""
+
+#: ../admin/talents-menu-options/favourite-settings.php:120
+msgid "Buttons Hover Color "
+msgstr ""
+
+#: ../admin/talents-menu-options/general-settings.php:3
+msgid "General Section"
+msgstr ""
+
+#: ../admin/talents-menu-options/general-settings.php:7
+msgid "User Logged In Message"
+msgstr ""
+
+#: ../admin/talents-menu-options/general-settings.php:14
+msgid "Add Your Facebook App Id"
+msgstr ""
+
+#: ../admin/talents-menu-options/general-settings.php:21
+msgid "Enable Single Page Facebook Comments"
+msgstr ""
+
+#: ../admin/talents-menu-options/registration-login-fields.php:4
+msgid "User Registration Settings"
+msgstr ""
+
+#: ../admin/talents-menu-options/registration-login-fields.php:6
+msgid "The below setting applied for registration pages only"
+msgstr ""
+
+#: ../admin/talents-menu-options/registration-login-fields.php:9
+#: ../admin/talents-menu-options/registration-login-fields.php:22
+msgid "Choose Registration Page"
+msgstr ""
+
+#: ../admin/talents-menu-options/registration-login-fields.php:27
+msgid "Select user registration page, it will display header top right postion"
+msgstr ""
+
+#: ../admin/talents-menu-options/registration-login-fields.php:31
+msgid "Email Validate Error Message"
+msgstr ""
+
+#: ../admin/talents-menu-options/registration-login-fields.php:37
+msgid "Email Exist Error Message"
+msgstr ""
+
+#: ../admin/talents-menu-options/registration-login-fields.php:40
+msgid "Email already exist error message"
+msgstr ""
+
+#: ../admin/talents-menu-options/registration-login-fields.php:44
+msgid "User Exist Error Message"
+msgstr ""
+
+#: ../admin/talents-menu-options/registration-login-fields.php:47
+msgid "User name already exist error message"
+msgstr ""
+
+#: ../admin/talents-menu-options/registration-login-fields.php:51
+msgid "Registration Success Message"
+msgstr ""
+
+#: ../admin/talents-menu-options/registration-login-fields.php:54
+msgid "Success message for, when user registration completed successfully"
+msgstr ""
+
+#: ../admin/talents-menu-options/registration-login-fields.php:58
+msgid "Email Subject"
+msgstr ""
+
+#: ../admin/talents-menu-options/registration-login-fields.php:61
+msgid "email Subject message for registred users"
+msgstr ""
+
+#: ../admin/talents-menu-options/registration-login-fields.php:65
+msgid "After Registration Email Message"
+msgstr ""
+
+#: ../admin/talents-menu-options/registration-login-fields.php:67
+msgid "Registration Email Body"
+msgstr ""
+
+#: ../admin/talents-menu-options/registration-login-fields.php:68
+msgid "Email message for, registerd users only"
+msgstr ""
+
+#: ../admin/talents-menu-options/registration-login-fields.php:72
+msgid "Registration Button Text"
+msgstr ""
+
+#: ../admin/talents-menu-options/registration-login-fields.php:74
+msgid "Register Me"
+msgstr ""
+
+#: ../admin/talents-menu-options/registration-login-fields.php:85
+msgid "User Login Settings"
+msgstr ""
+
+#: ../admin/talents-menu-options/registration-login-fields.php:89
+#: ../admin/talents-menu-options/registration-login-fields.php:101
+msgid "Choose Login Page"
+msgstr ""
+
+#: ../admin/talents-menu-options/registration-login-fields.php:109
+#: ../admin/talents-menu-options/registration-login-fields.php:121
+msgid "After Login Redirect Page"
+msgstr ""
+
+#: ../admin/talents-menu-options/registration-login-fields.php:126
+msgid "Select user login page, it will display header top right postion"
+msgstr ""
+
+#: ../admin/talents-menu-options/registration-login-fields.php:130
+msgid "Login Failure Message"
+msgstr ""
+
+#: ../admin/talents-menu-options/registration-login-fields.php:133
+msgid "Error message display, when user enter invalid username / password"
+msgstr ""
+
+#: ../admin/talents-menu-options/registration-login-fields.php:137
+msgid "Login Success Message"
+msgstr ""
+
+#: ../admin/talents-menu-options/registration-login-fields.php:139
+msgid "Pleas Wait, you are logging "
+msgstr ""
+
+#: ../admin/talents-menu-options/registration-login-fields.php:140
+msgid ""
+"Success message display, when user enter current username & password and it "
+"redirecting."
+msgstr ""
+
+#: ../admin/talents-menu-options/registration-login-fields.php:144
+msgid "Login Button Text"
+msgstr ""
+
+#: ../admin/talents-menu-options/registration-login-fields.php:146
+#: ../shortcodes/hsk-login.php:41
+msgid "Login"
+msgstr ""
+
+#: ../admin/talents-menu-options/registration-login-fields.php:157
+msgid "Forgot Password Settings"
+msgstr ""
+
+#: ../admin/talents-menu-options/registration-login-fields.php:161
+msgid "Forgot Password Page"
+msgstr ""
+
+#: ../admin/talents-menu-options/registration-login-fields.php:173
+msgid "Choose Forgot Password Page"
+msgstr ""
+
+#: ../admin/talents-menu-options/registration-login-fields.php:181
+msgid "Forgot Password Form Message"
+msgstr ""
+
+#: ../admin/talents-menu-options/registration-login-fields.php:187
+msgid "Forgot Password Button Text"
+msgstr ""
+
+#: ../admin/talents-menu-options/registration-login-fields.php:200
+msgid "Profile Settings"
+msgstr ""
+
+#: ../admin/talents-menu-options/registration-login-fields.php:204
+msgid "Profile Page"
+msgstr ""
+
+#: ../admin/talents-menu-options/registration-login-fields.php:216
+msgid "Choose Profile Page"
+msgstr ""
+
+#: ../admin/talents-menu-options/registration-login-fields.php:221
+msgid ""
+"Select user Profile page, it will display header top right postion after "
+"user logged in"
+msgstr ""
+
+#: ../admin/talents-menu-options/registration-login-fields.php:225
+#: ../admin/talents-menu-options/registration-login-fields.php:228
+msgid "user profile note"
+msgstr ""
+
+#: ../admin/talents-menu-options/registration-login-fields.php:232
+msgid "Profile Update Success Message"
+msgstr ""
+
+#: ../admin/talents-menu-options/registration-login-fields.php:235
+msgid ""
+"suecess message for user after updated profile page, it will display header "
+"top right postion after user logged in"
+msgstr ""
+
+#: ../admin/talents-menu-options/registration-login-fields.php:239
+msgid "Password Not-Match Error Message"
+msgstr ""
+
+#: ../admin/talents-menu-options/registration-login-fields.php:246
+msgid "Profile Update Error Message"
+msgstr ""
+
+#: ../admin/talents-menu-options/registration-login-fields.php:249
+msgid "Error message for user while updating profile"
+msgstr ""
+
+#: ../admin/talents-menu-options/registration-login-fields.php:253
+msgid "Profile Update Button Text"
+msgstr ""
+
+#: ../admin/talents-menu-options/registration-login-fields.php:255
+msgid "Update Your Profile"
+msgstr ""
+
+#: ../admin/talents-menu-options/registration-login-fields.php:266
+msgid "Logout Settings"
+msgstr ""
+
+#: ../admin/talents-menu-options/registration-login-fields.php:270
+msgid "Logout Redirect Page Link"
+msgstr ""
+
+#: ../admin/talents-menu-options/registration-login-fields.php:282
+msgid "Choose Logout Redirect Page"
+msgstr ""
+
+#: ../admin/talents-menu-options/registration-login-fields.php:287
+msgid "Select user Logout page, it works when user logout."
+msgstr ""
+
+#: ../admin/talents-menu-options/registration-login-fields.php:291
+msgid "Logout Text"
+msgstr ""
+
+#: ../admin/talents-menu-options/search-form-colors.php:8
+msgid "Disable Search"
+msgstr ""
+
+#: ../admin/talents-menu-options/search-form-colors.php:14
+#: ../widgets/hsk-img-boxes.php:147
+msgid "Button Text"
+msgstr ""
+
+#: ../admin/talents-menu-options/search-form-colors.php:20
+msgid "Form Background Color"
+msgstr ""
+
+#: ../admin/talents-menu-options/search-form-colors.php:26
+msgid "Form Label Colors"
+msgstr ""
+
+#: ../admin/talents-menu-options/search-form-colors.php:44
+msgid "Form Button BG Color"
+msgstr ""
+
+#: ../admin/talents-menu-options/search-form-colors.php:50
+msgid "Form Button Color"
+msgstr ""
+
+#: ../admin/talents-menu-options/talent-settings.php:3
+msgid "Talent Category Section"
+msgstr ""
+
+#: ../admin/talents-menu-options/talent-settings.php:5
+msgid ""
+"The below setting applied for \"Talents Taxonomy\" pages (For taxonomy pages "
+"Goto > Appearance > menu)"
+msgstr ""
+
+#: ../admin/talents-menu-options/talent-settings.php:8
+#: ../widgets/hsk-talents-slider.php:99 ../widgets/hsk-talents.php:111
+#: ../widgets/hsk-testimonial-slider.php:130
+msgid "Display Columns"
+msgstr ""
+
+#: ../admin/talents-menu-options/talent-settings.php:11
+msgid "8"
+msgstr ""
+
+#: ../admin/talents-menu-options/talent-settings.php:12
+msgid "7"
+msgstr ""
+
+#: ../admin/talents-menu-options/talent-settings.php:13
+msgid "6"
+msgstr ""
+
+#: ../admin/talents-menu-options/talent-settings.php:14
+msgid "5"
+msgstr ""
+
+#: ../admin/talents-menu-options/talent-settings.php:15
+msgid "4"
+msgstr ""
+
+#: ../admin/talents-menu-options/talent-settings.php:16
+msgid "3"
+msgstr ""
+
+#: ../admin/talents-menu-options/talent-settings.php:17
+msgid "2"
+msgstr ""
+
+#: ../admin/talents-menu-options/talent-settings.php:22
+#: ../widgets/hsk-talents-slider.php:138 ../widgets/hsk-talents.php:152
+msgid "Images Height"
+msgstr ""
+
+#: ../admin/talents-menu-options/talent-settings.php:28
+msgid "Limit Images"
+msgstr ""
+
+#: ../admin/talents-menu-options/talent-settings.php:40
+msgid "Talents Single Page Settings"
+msgstr ""
+
+#: ../admin/talents-menu-options/talent-settings.php:45
+msgid "Disable Favourite Button"
+msgstr ""
+
+#: ../admin/talents-menu-options/talent-settings.php:51
+msgid "favourite Button Text"
+msgstr ""
+
+#: ../admin/talents-menu-options/talent-settings.php:57
+msgid "Disable Following / Followers Section "
+msgstr ""
+
+#: ../admin/talents-menu-options/talent-settings.php:63
+msgid "Following Button Text"
+msgstr ""
+
+#: ../admin/talents-menu-options/talent-settings.php:69
+msgid "Disable Talents Enquiry Section"
+msgstr ""
+
+#: ../admin/talents-menu-options/talent-settings.php:75
+msgid "Enquiry Button Text"
+msgstr ""
+
+#: ../admin/talents-menu-options/talent-settings.php:77
+msgid "En"
+msgstr ""
+
+#: ../admin/talents-menu-options/talent-settings.php:81
+msgid "Disable Talents Social Share Section"
+msgstr ""
+
+#: ../admin/talents-menu-options/talent-settings.php:87
+msgid "Share On Button Text"
+msgstr ""
+
+#: ../admin/talents-menu-options/talent-settings.php:93
+msgid "Disable Titlebar Talent Image"
+msgstr ""
+
+#: ../admin/talents-menu-options/talent-settings.php:100
+msgid "Disable Talents Rating Section"
+msgstr ""
+
+#: ../admin/talents-menu-options/talent-settings.php:107
+msgid "Review & Rating Text Change"
+msgstr ""
+
+#: ../admin/talents-menu-options/talent-settings.php:114
+msgid "Disable Talent Unique ID"
+msgstr ""
+
+#: ../admin/talents-menu-options/talent-settings.php:120
+#: ../admin/talents-menu-options/talent-settings.php:122
+msgid "Account ID Text Change"
+msgstr ""
+
+#: ../admin/talents-menu-options/talent-settings.php:126
+msgid "Talent Unique ID Prefix"
+msgstr ""
+
+#: ../admin/talents-menu-options/talent-settings.php:134
+msgid "Disable Talent Views"
+msgstr ""
+
+#: ../admin/talents-menu-options/talent-settings.php:142
+msgid "Views"
+msgstr ""
+
+#: ../admin/talents-menu-options/talent-settings.php:149
+msgid "Disable Talent Dedication"
+msgstr ""
+
+#: ../admin/talents-menu-options/talent-settings.php:155
+#: ../admin/talents-menu-options/talent-settings.php:157
+msgid "Talent Dedication Text Change"
+msgstr ""
+
+#: ../admin/talents-menu-options/talent-settings.php:163
+msgid "Disable Follows Us On Section"
+msgstr ""
+
+#: ../admin/talents-menu-options/talent-settings.php:169
+msgid "Follow Us On Text Change"
+msgstr ""
+
+#: ../admin/talents-menu-options/talent-settings.php:177
+msgid "Disable Tags Section"
+msgstr ""
+
+#: ../admin/talents-menu-options/talent-settings.php:183
+msgid "Tags Text Change"
+msgstr ""
+
+#: ../admin/talents-menu-options/talent-settings.php:191
+msgid "Disable Related Talents"
+msgstr ""
+
+#: ../admin/talents-menu-options/talent-settings.php:197
+msgid "Related Posts Talents Title"
+msgstr ""
+
+#: ../admin/talents-menu-options/talent-settings.php:199 ../functions.php:481
+msgid "Related Talents"
+msgstr ""
+
+#: ../admin/widget-export-data.php:4
+msgid "HSK Widgets Export"
+msgstr ""
+
+#: ../admin/widget-export-data.php:4
+msgid "Widget Export"
+msgstr ""
+
+#: ../functions.php:74
+msgid "Please, First You Need To Login"
+msgstr ""
+
+#: ../functions.php:264
+msgid "Phone number"
+msgstr ""
+
+#: ../functions.php:267
+msgid "Enquiry description"
+msgstr ""
+
+#: ../functions.php:270
+msgid "Talent Enquiry"
+msgstr ""
+
+#: ../functions.php:304
+msgid "Your Rating Comment"
+msgstr ""
+
+#: ../functions.php:307
+msgid "Your Rating"
+msgstr ""
+
+#: ../functions.php:366 ../lib/library.php:348 ../lib/library.php:350
+#: ../lib/library.php:426
+msgid "Followers"
+msgstr ""
+
+#: ../functions.php:392 ../functions.php:412
+msgid "TRUST"
+msgstr ""
+
+#: ../functions.php:398 ../functions.php:419
+msgid "Email ID verified"
+msgstr ""
+
+#: ../functions.php:398 ../functions.php:419
+msgid "Email ID Not verified"
+msgstr ""
+
+#: ../functions.php:404 ../functions.php:425
+msgid "Phone Number verified"
+msgstr ""
+
+#: ../functions.php:404 ../functions.php:425
+msgid "Phone Number Not verified"
+msgstr ""
+
+#: ../functions.php:441 ../functions.php:453
+msgid "VIEW MORE"
+msgstr ""
+
+#: ../functions.php:449
+msgid "Followes"
+msgstr ""
+
+#: ../functions.php:520
+msgid "Sender Name"
+msgstr ""
+
+#: ../functions.php:523
+msgid "Sender Email"
+msgstr ""
+
+#: ../functions.php:526
+msgid "Receiver Email"
+msgstr ""
+
+#: ../functions.php:530 ../lib/library.php:717 ../lib/library.php:758
+#: ../widgets/counters.php:127 ../widgets/feature_box.php:146
+#: ../widgets/hsk-content-box.php:114 ../widgets/hsk-img-boxes.php:110
+#: ../widgets/hsk-team-social-icons.php:182 ../widgets/hsk-title.php:67
+msgid "Description"
+msgstr ""
+
+#: ../functions.php:533
+msgid "Favouritive Enquiry"
+msgstr ""
+
+#: ../includes/assests/class-register-scripts.php:27
+#: ../includes/assests/class-register-scripts.php:38
+#: ../lib/hsk-post-likes.php:188
+msgid "Like"
+msgstr ""
+
+#: ../includes/assests/class-register-scripts.php:28
+#: ../includes/assests/class-register-scripts.php:39
+#: ../lib/hsk-post-likes.php:184
+msgid "Unlike"
+msgstr ""
+
+#: ../lib/hsk-post-likes.php:12
+msgid "Not permitted"
+msgstr ""
+
+#: ../lib/hsk-post-likes.php:275
+msgid "0"
+msgstr ""
+
+#: ../lib/library.php:41
+msgid " Dashboard"
+msgstr ""
+
+#: ../lib/library.php:65
+msgid "Add to favourite"
+msgstr ""
+
+#: ../lib/library.php:66
+msgid "Remove to favourite"
+msgstr ""
+
+#: ../lib/library.php:68
+msgid "Out Of Station"
+msgstr ""
+
+#: ../lib/library.php:159
+msgid "Hi"
+msgstr ""
+
+#: ../lib/library.php:175
+msgid "Featured"
+msgstr ""
+
+#: ../lib/library.php:210
+msgid "Faild to inserted"
+msgstr ""
+
+#: ../lib/library.php:212
+msgid "sucessfully inserted"
+msgstr ""
+
+#: ../lib/library.php:258 ../lib/library.php:665
+msgid "View More"
+msgstr ""
+
+#: ../lib/library.php:278
+msgid "Role"
+msgstr ""
+
+#: ../lib/library.php:284
+msgid "Be the first follower to this talent, please click to the "
+msgstr ""
+
+#: ../lib/library.php:284
+msgid "follow"
+msgstr ""
+
+#: ../lib/library.php:341
+msgid "Favourite"
+msgstr ""
+
+#: ../lib/library.php:342
+msgid "Remove"
+msgstr ""
+
+#: ../lib/library.php:360
+msgid "Share"
+msgstr ""
+
+#: ../lib/library.php:368
+msgid "Share on Facebook"
+msgstr ""
+
+#: ../lib/library.php:370
+msgid "Tweet this!"
+msgstr ""
+
+#: ../lib/library.php:380
+msgid "Share on LinkedIn"
+msgstr ""
+
+#: ../lib/library.php:390
+msgid "Stumble it"
+msgstr ""
+
+#: ../lib/library.php:395
+msgid "Digg this!"
+msgstr ""
+
+#: ../lib/library.php:412
+msgid "Views "
+msgstr ""
+
+#: ../lib/library.php:422
+msgid "Account ID "
+msgstr ""
+
+#: ../lib/library.php:427
+msgid "Last Modified:"
+msgstr ""
+
+#: ../lib/library.php:462
+msgid "Instagram"
+msgstr ""
+
+#: ../lib/library.php:465
+msgid "Pinterest"
+msgstr ""
+
+#: ../lib/library.php:469
+msgid "Google Plus"
+msgstr ""
+
+#: ../lib/library.php:473
+msgid "Linked"
+msgstr ""
+
+#: ../lib/library.php:603
+msgid "Faild to add your rating"
+msgstr ""
+
+#: ../lib/library.php:605
+msgid "Thank you for giving me your valuable rating"
+msgstr ""
+
+#: ../lib/library.php:635 ../lib/library.php:656
+msgid "Rated "
+msgstr ""
+
+#: ../lib/library.php:668
+msgid "Be the first review to this talent, please click to the "
+msgstr ""
+
+#: ../lib/library.php:668
+msgid "Rate this model"
+msgstr ""
+
+#: ../lib/library.php:712
+msgid "A messsage from your website's contact form"
+msgstr ""
+
+#: ../lib/library.php:716
+msgid "Contact Num"
+msgstr ""
+
+#: ../lib/library.php:724
+msgid "Thanks, for the message. We will respond as soon as possible."
+msgstr ""
+
+#: ../lib/library.php:726
+msgid "Some errors occurred."
+msgstr ""
+
+#: ../lib/library.php:744
+msgid "Favouritive Talents Information"
+msgstr ""
+
+#: ../lib/library.php:769
+msgid "Your message has been sucessfully sent"
+msgstr ""
+
+#: ../lib/library.php:771
+msgid "Some errors occurred. please try again"
+msgstr ""
+
+#: ../lib/library.php:959 ../lib/library.php:967 ../lib/library.php:978
+#: ../lib/library.php:989 ../lib/library.php:995
+msgid "Choose One"
+msgstr ""
+
+#: ../shortcodes/hsk-blog-posts.php:89
+msgid "Posted By"
+msgstr ""
+
+#: ../shortcodes/hsk-blog-posts.php:90
+msgid "Posted On"
+msgstr ""
+
+#: ../shortcodes/hsk-login.php:32 ../shortcodes/hsk-registration.php:46
+msgid "User Name"
+msgstr ""
+
+#: ../shortcodes/hsk-login.php:36
+msgid "Password"
+msgstr ""
+
+#: ../shortcodes/hsk-login.php:72
+msgid "Pleas Wait, you are logging"
+msgstr ""
+
+#: ../shortcodes/hsk-registration.php:19 ../shortcodes/hsk-registration.php:38
+msgid "Tell us who you are"
+msgstr ""
+
+#: ../shortcodes/hsk-registration.php:31
+msgid "Please wait..."
+msgstr ""
+
+#: ../shortcodes/hsk-registration.php:32
+msgid "You have success fully registred"
+msgstr ""
+
+#: ../shortcodes/hsk-registration.php:50 ../shortcodes/hsk-user-profile.php:78
+msgid "First Name"
+msgstr ""
+
+#: ../shortcodes/hsk-registration.php:54 ../shortcodes/hsk-user-profile.php:82
+msgid "Last Name"
+msgstr ""
+
+#: ../shortcodes/hsk-registration.php:67
+msgid "Signup!!!"
+msgstr ""
+
+#: ../shortcodes/hsk-registration.php:97 ../shortcodes/hsk-user-profile.php:35
+msgid "This Email Already exist, please try with Different  Email"
+msgstr ""
+
+#: ../shortcodes/hsk-registration.php:102
+msgid ""
+"Your account has been set up and you can log in using the following details. "
+"Once you have logged in, please ensure that you visit the Site Admin and "
+"change you password so that you dont forget it in the future."
+msgstr ""
+
+#: ../shortcodes/hsk-registration.php:110
+msgid "Hi "
+msgstr ""
+
+#: ../shortcodes/hsk-registration.php:110
+msgid " Thank you for registering with"
+msgstr ""
+
+#: ../shortcodes/hsk-registration.php:111
+msgid "Username: "
+msgstr ""
+
+#: ../shortcodes/hsk-registration.php:117
+msgid "Registred with"
+msgstr ""
+
+#: ../shortcodes/hsk-shortlist.php:29
+msgid "Add Header Right Section"
+msgstr ""
+
+#: ../shortcodes/hsk-shortlist.php:43
+msgid "Print \tfavouritive"
+msgstr ""
+
+#: ../shortcodes/hsk-shortlist.php:47 ../shortcodes/hsk-shortlist.php:64
+msgid ""
+"There are currently no models listed in your favourites page. <br />You can "
+"add by clicking the 'favourites' button on a talents's  page. <br />Then use "
+"the menu below in order to edit your selection and request more info "
+msgstr ""
+
+#: ../shortcodes/hsk-talents.php:62
+msgid "ALL"
+msgstr ""
+
+#: ../shortcodes/hsk-user-profile.php:61
+msgid "You must be logged in to edit your profile."
+msgstr ""
+
+#: ../shortcodes/hsk-user-profile.php:71
+msgid "Update Information for"
+msgstr ""
+
+#: ../shortcodes/hsk-user-profile.php:86
+msgid "E-mail *"
+msgstr ""
+
+#: ../shortcodes/hsk-user-profile.php:101
+msgid "Password *"
+msgstr ""
+
+#: ../shortcodes/hsk-user-profile.php:105
+msgid "Repeat Password *"
+msgstr ""
+
+#: ../shortcodes/hsk-user-profile.php:109
+msgid "Biographical Information"
+msgstr ""
+
+#: ../templates/single-talent.php:37
+msgid "Rating Information"
+msgstr ""
+
+#: ../templates/single-talent.php:38
+msgid "Followers Information"
+msgstr ""
+
+#: ../widgets/callout.php:5
+msgid "HSK Callout Box"
+msgstr ""
+
+#: ../widgets/callout.php:6
+msgid "Use this widget to add test"
+msgstr ""
+
+#: ../widgets/callout.php:127 ../widgets/hsk-content-box.php:83
+msgid "General Settings"
+msgstr ""
+
+#: ../widgets/callout.php:129
+msgid "Select Callout Box Style"
+msgstr ""
+
+#: ../widgets/callout.php:131
+msgid "Style - 1"
+msgstr ""
+
+#: ../widgets/callout.php:132
+msgid "Style - 2"
+msgstr ""
+
+#: ../widgets/callout.php:136
+msgid "Container Padding Left & Right"
+msgstr ""
+
+#: ../widgets/callout.php:141 ../widgets/feature_box.php:85
+msgid "Container Padding Top & Bottom"
+msgstr ""
+
+#: ../widgets/callout.php:147
+msgid "Title Section"
+msgstr ""
+
+#: ../widgets/callout.php:149
+msgid "Callout Box Content"
+msgstr ""
+
+#: ../widgets/callout.php:153 ../widgets/feature_box.php:128
+#: ../widgets/hsk-blog-posts.php:198 ../widgets/hsk-content-box.php:156
+#: ../widgets/hsk-img-boxes.php:118 ../widgets/hsk-talents-cat.php:136
+#: ../widgets/hsk-talents.php:157 ../widgets/hsk-team.php:122
+#: ../widgets/hsk-title.php:96
+msgid "Title Font Size"
+msgstr ""
+
+#: ../widgets/callout.php:162 ../widgets/feature_box.php:132
+#: ../widgets/hsk-content-box.php:161 ../widgets/hsk-img-boxes.php:130
+#: ../widgets/hsk-team.php:130 ../widgets/hsk-title.php:100
+msgid "Title Font Weight"
+msgstr ""
+
+#: ../widgets/callout.php:164 ../widgets/callout.php:171
+#: ../widgets/callout.php:195 ../widgets/callout.php:202
+#: ../widgets/counters.php:115 ../widgets/feature_box.php:134
+#: ../widgets/hsk-button.php:132 ../widgets/hsk-content-box.php:163
+#: ../widgets/hsk-img-boxes.php:132 ../widgets/hsk-team-social-icons.php:218
+#: ../widgets/hsk-team-social-icons.php:225
+#: ../widgets/hsk-team-social-icons.php:248
+#: ../widgets/hsk-team-social-icons.php:255
+#: ../widgets/hsk-team-social-icons.php:276
+#: ../widgets/hsk-team-social-icons.php:283 ../widgets/hsk-team.php:132
+#: ../widgets/hsk-testimonial-slider.php:158
+#: ../widgets/hsk-testimonial-slider.php:165
+#: ../widgets/hsk-testimonial-slider.php:187
+#: ../widgets/hsk-testimonial-slider.php:194
+#: ../widgets/hsk-testimonial-slider.php:216
+#: ../widgets/hsk-testimonial-slider.php:223 ../widgets/hsk-title.php:102
+#: ../widgets/hsk-title.php:114
+msgid "Normal"
+msgstr ""
+
+#: ../widgets/callout.php:165 ../widgets/callout.php:196
+#: ../widgets/callout.php:203 ../widgets/counters.php:116
+#: ../widgets/feature_box.php:135 ../widgets/hsk-button.php:134
+#: ../widgets/hsk-content-box.php:165 ../widgets/hsk-img-boxes.php:134
+#: ../widgets/hsk-team-social-icons.php:226
+#: ../widgets/hsk-team-social-icons.php:256
+#: ../widgets/hsk-team-social-icons.php:284 ../widgets/hsk-team.php:134
+#: ../widgets/hsk-testimonial-slider.php:166
+#: ../widgets/hsk-testimonial-slider.php:195
+#: ../widgets/hsk-testimonial-slider.php:224 ../widgets/hsk-title.php:104
+#: ../widgets/hsk-title.php:116
+msgid "Bold"
+msgstr ""
+
+#: ../widgets/callout.php:169 ../widgets/callout.php:200
+msgid "Title Font Style"
+msgstr ""
+
+#: ../widgets/callout.php:172 ../widgets/hsk-team-social-icons.php:219
+#: ../widgets/hsk-team-social-icons.php:249
+#: ../widgets/hsk-team-social-icons.php:277
+#: ../widgets/hsk-testimonial-slider.php:159
+#: ../widgets/hsk-testimonial-slider.php:188
+#: ../widgets/hsk-testimonial-slider.php:217
+msgid "Italic"
+msgstr ""
+
+#: ../widgets/callout.php:176
+msgid "Title Bottom Space"
+msgstr ""
+
+#: ../widgets/callout.php:182
+msgid "Description Section"
+msgstr ""
+
+#: ../widgets/callout.php:184
+msgid "Callout Description"
+msgstr ""
+
+#: ../widgets/callout.php:188 ../widgets/counters.php:134
+#: ../widgets/feature_box.php:152 ../widgets/hsk-blog-posts.php:216
+#: ../widgets/hsk-content-box.php:176 ../widgets/hsk-img-boxes.php:143
+#: ../widgets/hsk-talents-cat.php:145 ../widgets/hsk-team-social-icons.php:264
+#: ../widgets/hsk-team.php:157 ../widgets/hsk-testimonial-slider.php:146
+#: ../widgets/hsk-title.php:108
+msgid "Description Font Size"
+msgstr ""
+
+#: ../widgets/callout.php:193 ../widgets/hsk-team-social-icons.php:281
+#: ../widgets/hsk-testimonial-slider.php:163 ../widgets/hsk-title.php:112
+msgid "Description Font Weight"
+msgstr ""
+
+#: ../widgets/callout.php:207
+msgid "Description Bottom Space"
+msgstr ""
+
+#: ../widgets/callout.php:212 ../widgets/counters.php:138
+#: ../widgets/hsk-content-box.php:172 ../widgets/hsk-img-boxes.php:139
+#: ../widgets/hsk-team-social-icons.php:260 ../widgets/hsk-team.php:165
+#: ../widgets/hsk-testimonial-slider.php:142 ../widgets/hsk-title.php:91
+msgid "Description Color"
+msgstr ""
+
+#: ../widgets/callout.php:221
+msgid "Button "
+msgstr ""
+
+#: ../widgets/callout.php:225
+msgid "Button Text "
+msgstr ""
+
+#: ../widgets/callout.php:229
+msgid "Button Link "
+msgstr ""
+
+#: ../widgets/callout.php:233 ../widgets/hsk-button.php:76
+msgid "Button Background Color"
+msgstr ""
+
+#: ../widgets/callout.php:237 ../widgets/hsk-button.php:80
+#: ../widgets/hsk-img-boxes.php:155
+msgid "Button Color"
+msgstr ""
+
+#: ../widgets/callout.php:241
+msgid "Button Hover background Color"
+msgstr ""
+
+#: ../widgets/callout.php:245 ../widgets/hsk-button.php:89
+#: ../widgets/hsk-img-boxes.php:159
+msgid "Button Hover Color"
+msgstr ""
+
+#: ../widgets/callout.php:253
+msgid "Button Padding Left & Right"
+msgstr ""
+
+#: ../widgets/callout.php:257
+msgid "Button Padding Top & Bottom"
+msgstr ""
+
+#: ../widgets/callout.php:262
+msgid "Content Positions"
+msgstr ""
+
+#: ../widgets/callout.php:264
+msgid "Callout Box Content Position"
+msgstr ""
+
+#: ../widgets/callout.php:266 ../widgets/counters.php:160
+#: ../widgets/hsk-button.php:118 ../widgets/hsk-button.php:123
+#: ../widgets/hsk-content-box.php:138 ../widgets/hsk-content-box.php:143
+#: ../widgets/hsk-img-boxes.php:165 ../widgets/hsk-social-follow.php:124
+#: ../widgets/hsk-social-follow.php:138 ../widgets/hsk-talents-cat.php:161
+#: ../widgets/hsk-team.php:185 ../widgets/hsk-team.php:190
+#: ../widgets/hsk-title.php:73
+msgid "Left"
+msgstr ""
+
+#: ../widgets/callout.php:267 ../widgets/counters.php:161
+#: ../widgets/hsk-button.php:125 ../widgets/hsk-content-box.php:145
+#: ../widgets/hsk-img-boxes.php:167 ../widgets/hsk-social-follow.php:140
+#: ../widgets/hsk-talents-cat.php:163 ../widgets/hsk-team.php:192
+#: ../widgets/hsk-title.php:75
+msgid "Center"
+msgstr ""
+
+#: ../widgets/counters.php:10
+msgid "HSK Counters"
+msgstr ""
+
+#: ../widgets/counters.php:11
+msgid "Use this widget to display the counters"
+msgstr ""
+
+#: ../widgets/counters.php:83
+msgid "Counter Icon Settings"
+msgstr ""
+
+#: ../widgets/counters.php:85 ../widgets/feature_box.php:104
+#: ../widgets/hsk-content-box.php:104
+msgid "Icon Name"
+msgstr ""
+
+#: ../widgets/counters.php:87 ../widgets/feature_box.php:106
+#: ../widgets/hsk-content-box.php:106
+msgid "For awesome icons click"
+msgstr ""
+
+#: ../widgets/counters.php:87 ../widgets/feature_box.php:106
+#: ../widgets/hsk-content-box.php:106
+msgid " here "
+msgstr ""
+
+#: ../widgets/counters.php:90 ../widgets/feature_box.php:113
+#: ../widgets/hsk-content-box.php:126
+msgid "Icon Size"
+msgstr ""
+
+#: ../widgets/counters.php:94 ../widgets/feature_box.php:117
+#: ../widgets/hsk-content-box.php:122 ../widgets/hsk-social-follow.php:94
+msgid "Icon Color"
+msgstr ""
+
+#: ../widgets/counters.php:99
+msgid "Counter Settings"
+msgstr ""
+
+#: ../widgets/counters.php:101
+msgid "Counter Number"
+msgstr ""
+
+#: ../widgets/counters.php:105
+msgid "Counter Plus Sign(+)"
+msgstr ""
+
+#: ../widgets/counters.php:109
+msgid "Count Number Font Size"
+msgstr ""
+
+#: ../widgets/counters.php:113
+msgid "Count Number Font Weight"
+msgstr ""
+
+#: ../widgets/counters.php:120
+msgid "Count Number Color"
+msgstr ""
+
+#: ../widgets/counters.php:125 ../widgets/feature_box.php:144
+#: ../widgets/hsk-content-box.php:170
+msgid "Description Settings"
+msgstr ""
+
+#: ../widgets/counters.php:129 ../widgets/feature_box.php:148
+msgid "Use  short descriptions for better appearance"
+msgstr ""
+
+#: ../widgets/counters.php:143
+msgid "counters Bg Colors / positions Settings"
+msgstr ""
+
+#: ../widgets/counters.php:145
+msgid "Counters Container Background Color"
+msgstr ""
+
+#: ../widgets/counters.php:149
+msgid "Counters Container Border Color"
+msgstr ""
+
+#: ../widgets/counters.php:153
+msgid "Container Padding Top & Bottom, Right & Left"
+msgstr ""
+
+#: ../widgets/counters.php:158
+msgid "Position"
+msgstr ""
+
+#: ../widgets/feature_box.php:10
+msgid "HSK Hover / Feature Boxes"
+msgstr ""
+
+#: ../widgets/feature_box.php:11
+msgid "Use this widget to display slides descriptions"
+msgstr ""
+
+#: ../widgets/feature_box.php:83
+msgid "Container Settings"
+msgstr ""
+
+#: ../widgets/feature_box.php:89 ../widgets/hsk-content-box.php:93
+msgid "Container Background Color"
+msgstr ""
+
+#: ../widgets/feature_box.php:93
+msgid "Hover Content BG Color"
+msgstr ""
+
+#: ../widgets/feature_box.php:97
+msgid "Hover Content Color"
+msgstr ""
+
+#: ../widgets/feature_box.php:102
+msgid "Icon Settings"
+msgstr ""
+
+#: ../widgets/feature_box.php:109
+msgid "Link"
+msgstr ""
+
+#: ../widgets/feature_box.php:122 ../widgets/hsk-content-box.php:150
+msgid "Title Settings"
+msgstr ""
+
+#: ../widgets/feature_box.php:124 ../widgets/hsk-content-box.php:110
+#: ../widgets/hsk-flickr-widgets.php:68 ../widgets/hsk-talents-slider.php:121
+#: ../widgets/hsk-talents.php:135
+msgid "Title"
+msgstr ""
+
+#: ../widgets/hsk-blog-posts.php:6
+msgid "HSK Blog Posts"
+msgstr ""
+
+#: ../widgets/hsk-blog-posts.php:7
+msgid "Use this widget to display the blog posts"
+msgstr ""
+
+#: ../widgets/hsk-blog-posts.php:151
+msgid "Blog Post Style"
+msgstr ""
+
+#: ../widgets/hsk-blog-posts.php:158
+msgid "Blog Post Display Columns"
+msgstr ""
+
+#: ../widgets/hsk-blog-posts.php:167
+msgid "Post Image Width & Height"
+msgstr ""
+
+#: ../widgets/hsk-blog-posts.php:170 ../widgets/hsk-team-social-icons.php:208
+#: ../widgets/hsk-team-social-icons.php:213
+#: ../widgets/hsk-team-social-icons.php:238
+#: ../widgets/hsk-team-social-icons.php:243
+#: ../widgets/hsk-team-social-icons.php:266
+#: ../widgets/hsk-team-social-icons.php:271
+#: ../widgets/hsk-testimonial-slider.php:148
+#: ../widgets/hsk-testimonial-slider.php:153
+#: ../widgets/hsk-testimonial-slider.php:177
+#: ../widgets/hsk-testimonial-slider.php:182
+#: ../widgets/hsk-testimonial-slider.php:206
+#: ../widgets/hsk-testimonial-slider.php:211
+msgid "px"
+msgstr ""
+
+#: ../widgets/hsk-blog-posts.php:173
+msgid "Image Over Date Background Color"
+msgstr ""
+
+#: ../widgets/hsk-blog-posts.php:177
+msgid "Image Over Date Color"
+msgstr ""
+
+#: ../widgets/hsk-blog-posts.php:181
+msgid "Image Over Meta Info Color"
+msgstr ""
+
+#: ../widgets/hsk-blog-posts.php:185
+msgid "Image Over Meta Info Icons Color"
+msgstr ""
+
+#: ../widgets/hsk-blog-posts.php:189
+msgid "Post Title & Description Background Color"
+msgstr ""
+
+#: ../widgets/hsk-blog-posts.php:194
+msgid "Post Title Color"
+msgstr ""
+
+#: ../widgets/hsk-blog-posts.php:203
+msgid "Decription Meta Info Link Color"
+msgstr ""
+
+#: ../widgets/hsk-blog-posts.php:207
+msgid "Decription Meta Info Icons Color"
+msgstr ""
+
+#: ../widgets/hsk-blog-posts.php:212
+msgid "Post Description Color"
+msgstr ""
+
+#: ../widgets/hsk-blog-posts.php:220
+msgid "Disable Post Image"
+msgstr ""
+
+#: ../widgets/hsk-blog-posts.php:224
+msgid "Disable Post Meta Data"
+msgstr ""
+
+#: ../widgets/hsk-blog-posts.php:228
+msgid "Enable Post Meta Data On Description Block"
+msgstr ""
+
+#: ../widgets/hsk-blog-posts.php:232
+msgid "Description Words Limit"
+msgstr ""
+
+#: ../widgets/hsk-blog-posts.php:236
+msgid "Posts Limit"
+msgstr ""
+
+#: ../widgets/hsk-button.php:10
+msgid "HSK- Button"
+msgstr ""
+
+#: ../widgets/hsk-button.php:11 ../widgets/hsk-team.php:11
+msgid "Create more button and link where want"
+msgstr ""
+
+#: ../widgets/hsk-button.php:66
+msgid "Image Content Settings"
+msgstr ""
+
+#: ../widgets/hsk-button.php:68
+msgid "Button Name"
+msgstr ""
+
+#: ../widgets/hsk-button.php:72 ../widgets/hsk-img-boxes.php:151
+msgid "Button Link"
+msgstr ""
+
+#: ../widgets/hsk-button.php:85
+msgid "Button Hover Background Color"
+msgstr ""
+
+#: ../widgets/hsk-button.php:93
+msgid "Font Size"
+msgstr ""
+
+#: ../widgets/hsk-button.php:98
+msgid "Padding Top & Bottom"
+msgstr ""
+
+#: ../widgets/hsk-button.php:102
+msgid "Padding Left & Right"
+msgstr ""
+
+#: ../widgets/hsk-button.php:107
+msgid "Letter Space"
+msgstr ""
+
+#: ../widgets/hsk-button.php:111 ../widgets/hsk-content-box.php:134
+#: ../widgets/hsk-social-follow.php:117
+msgid "Icon Border Radius"
+msgstr ""
+
+#: ../widgets/hsk-button.php:112 ../widgets/hsk-content-box.php:135
+#: ../widgets/hsk-social-follow.php:118 ../widgets/hsk-social-follow.php:129
+#: ../widgets/hsk-team.php:179
+msgid "Top"
+msgstr ""
+
+#: ../widgets/hsk-button.php:114 ../widgets/hsk-button.php:124
+#: ../widgets/hsk-content-box.php:136 ../widgets/hsk-content-box.php:144
+#: ../widgets/hsk-img-boxes.php:166 ../widgets/hsk-social-follow.php:120
+#: ../widgets/hsk-social-follow.php:139 ../widgets/hsk-talents-cat.php:162
+#: ../widgets/hsk-team.php:181 ../widgets/hsk-team.php:191
+#: ../widgets/hsk-title.php:74
+msgid "Right"
+msgstr ""
+
+#: ../widgets/hsk-button.php:116 ../widgets/hsk-content-box.php:137
+#: ../widgets/hsk-social-follow.php:122 ../widgets/hsk-social-follow.php:131
+#: ../widgets/hsk-team.php:183
+msgid "Bottom"
+msgstr ""
+
+#: ../widgets/hsk-button.php:121
+msgid "Button Position"
+msgstr ""
+
+#: ../widgets/hsk-button.php:130
+msgid "Button Font Weight"
+msgstr ""
+
+#: ../widgets/hsk-button.php:133 ../widgets/hsk-content-box.php:164
+#: ../widgets/hsk-img-boxes.php:133 ../widgets/hsk-team.php:133
+#: ../widgets/hsk-title.php:103 ../widgets/hsk-title.php:115
+msgid "Medium"
+msgstr ""
+
+#: ../widgets/hsk-client-logo.php:5
+msgid "HSK- Client Logos"
+msgstr ""
+
+#: ../widgets/hsk-client-logo.php:6 ../widgets/hsk-user-registration.php:11
+msgid "This is used to create user registration form based on user roles"
+msgstr ""
+
+#: ../widgets/hsk-client-logo.php:110
+msgid "Add your clients logo Here"
+msgstr ""
+
+#: ../widgets/hsk-client-logo.php:117
+msgid "Logo Link "
+msgstr ""
+
+#: ../widgets/hsk-client-logo.php:121
+msgid "Logo Image "
+msgstr ""
+
+#: ../widgets/hsk-client-logo.php:129
+msgid "Select an Image"
+msgstr ""
+
+#: ../widgets/hsk-content-box.php:10
+msgid " Icon Box"
+msgstr ""
+
+#: ../widgets/hsk-content-box.php:11
+msgid "Display icon box with title and description"
+msgstr ""
+
+#: ../widgets/hsk-content-box.php:18 ../widgets/hsk-content-box.php:52
+msgid "Icon Title"
+msgstr ""
+
+#: ../widgets/hsk-content-box.php:19 ../widgets/hsk-content-box.php:53
+msgid "Icon Desciption"
+msgstr ""
+
+#: ../widgets/hsk-content-box.php:85
+msgid "Icon Box Styles"
+msgstr ""
+
+#: ../widgets/hsk-content-box.php:87
+msgid "Style-1"
+msgstr ""
+
+#: ../widgets/hsk-content-box.php:88
+msgid "Style-2"
+msgstr ""
+
+#: ../widgets/hsk-content-box.php:89
+msgid "Style-3"
+msgstr ""
+
+#: ../widgets/hsk-content-box.php:97
+msgid "Container Padding"
+msgstr ""
+
+#: ../widgets/hsk-content-box.php:102
+msgid "Icons Settings"
+msgstr ""
+
+#: ../widgets/hsk-content-box.php:118 ../widgets/hsk-social-follow.php:90
+msgid "Icon Background Color"
+msgstr ""
+
+#: ../widgets/hsk-content-box.php:130
+msgid "Icon Border Color"
+msgstr ""
+
+#: ../widgets/hsk-content-box.php:141 ../widgets/hsk-social-follow.php:136
+msgid "Icon Position"
+msgstr ""
+
+#: ../widgets/hsk-content-box.php:180
+msgid "Content Border Color"
+msgstr ""
+
+#: ../widgets/hsk-custom-links-pages.php:4
+msgid "HSK - Custom Links"
+msgstr ""
+
+#: ../widgets/hsk-custom-links-pages.php:5
+msgid ""
+"This widget is used to create custom links  and as well as display logout "
+"link if it is enable."
+msgstr ""
+
+#: ../widgets/hsk-custom-links-pages.php:81
+msgid "Add Custom Link & Title - "
+msgstr ""
+
+#: ../widgets/hsk-custom-links-pages.php:82
+msgid "Add Custom Link Title - "
+msgstr ""
+
+#: ../widgets/hsk-custom-links-pages.php:83
+msgid "Add Custom Link - "
+msgstr ""
+
+#: ../widgets/hsk-custom-links-pages.php:88
+msgid "Enable Logout Link"
+msgstr ""
+
+#: ../widgets/hsk-custom-links-pages.php:93
+msgid "Enable Target Location Blank page"
+msgstr ""
+
+#: ../widgets/hsk-facebook.php:10
+msgid "HSK- Facebook Likebox"
+msgstr ""
+
+#: ../widgets/hsk-facebook.php:11
+msgid "Display facebook likebox widget, with faces"
+msgstr ""
+
+#: ../widgets/hsk-facebook.php:38
+msgid "Facebook Page Name"
+msgstr ""
+
+#: ../widgets/hsk-facebook.php:43
+msgid "Show Faces"
+msgstr ""
+
+#: ../widgets/hsk-facebook.php:50
+msgid "Stream"
+msgstr ""
+
+#: ../widgets/hsk-facebook.php:57
+msgid "Show Header"
+msgstr ""
+
+#: ../widgets/hsk-facebook.php:64
+msgid "Height"
+msgstr ""
+
+#: ../widgets/hsk-flickr-widgets.php:8
+msgid "HSK Flickr"
+msgstr ""
+
+#: ../widgets/hsk-flickr-widgets.php:9
+msgid "Use this widget to add  flickr images where you need"
+msgstr ""
+
+#: ../widgets/hsk-flickr-widgets.php:38
+msgid "Please Enter an Flickr ID"
+msgstr ""
+
+#: ../widgets/hsk-flickr-widgets.php:72
+msgid "Type"
+msgstr ""
+
+#: ../widgets/hsk-flickr-widgets.php:78
+msgid "The type of images from user or group."
+msgstr ""
+
+#: ../widgets/hsk-flickr-widgets.php:85
+msgid "Number"
+msgstr ""
+
+#: ../widgets/hsk-flickr-widgets.php:89
+msgid "Display Method"
+msgstr ""
+
+#: ../widgets/hsk-flickr-widgets.php:97
+msgid "Sizes"
+msgstr ""
+
+#: ../widgets/hsk-forgot-password.php:10
+msgid "HSK- User Forgot Form"
+msgstr ""
+
+#: ../widgets/hsk-forgot-password.php:11
+msgid "This is used to create user forgot password form "
+msgstr ""
+
+#: ../widgets/hsk-forgot-password.php:29
+msgid "For user profile form settings click"
+msgstr ""
+
+#: ../widgets/hsk-forgot-password.php:29 ../widgets/hsk-list.php:74
+#: ../widgets/hsk-shortlist.php:29 ../widgets/hsk-user-login.php:29
+#: ../widgets/hsk-user-profile.php:29 ../widgets/hsk-user-registration.php:29
+msgid "here"
+msgstr ""
+
+#: ../widgets/hsk-img-boxes.php:9
+msgid "HSK- Image Box"
+msgstr ""
+
+#: ../widgets/hsk-img-boxes.php:10
+msgid "Display image with title and description"
+msgstr ""
+
+#: ../widgets/hsk-img-boxes.php:101 ../widgets/hsk-team-social-icons.php:166
+#: ../widgets/hsk-team.php:172
+msgid "Image Width & Height"
+msgstr ""
+
+#: ../widgets/hsk-img-boxes.php:106
+msgid "Image Title"
+msgstr ""
+
+#: ../widgets/hsk-img-boxes.php:122
+msgid "Title Below Image"
+msgstr ""
+
+#: ../widgets/hsk-img-boxes.php:163
+msgid "position"
+msgstr ""
+
+#: ../widgets/hsk-instagram.php:55
+msgid "HSK Instagram"
+msgstr ""
+
+#: ../widgets/hsk-instagram.php:56
+msgid "Use this widget to display instagram feeds"
+msgstr ""
+
+#: ../widgets/hsk-instagram.php:81
+msgid "Instgram User ID"
+msgstr ""
+
+#: ../widgets/hsk-instagram.php:85
+msgid "Instgram Access Token Key"
+msgstr ""
+
+#: ../widgets/hsk-instagram.php:89 ../widgets/hsk-instagram.php:97
+msgid "Instgram Images Count"
+msgstr ""
+
+#: ../widgets/hsk-instagram.php:93
+msgid "Instgram Images Width"
+msgstr ""
+
+#: ../widgets/hsk-list.php:11
+msgid "List"
+msgstr ""
+
+#: ../widgets/hsk-list.php:12
+msgid "Use this widget to display the  list items"
+msgstr ""
+
+#: ../widgets/hsk-list.php:58
+msgid "List Content"
+msgstr ""
+
+#: ../widgets/hsk-list.php:62
+msgid "List Data Icon Color"
+msgstr ""
+
+#: ../widgets/hsk-list.php:66
+msgid "List Data Color"
+msgstr ""
+
+#: ../widgets/hsk-list.php:71
+msgid "List Data Hover Color"
+msgstr ""
+
+#: ../widgets/hsk-list.php:74
+msgid "For icons click"
+msgstr ""
+
+#: ../widgets/hsk-role-based-links.php:4
+msgid "HSK - Roles Based Custom Links"
+msgstr ""
+
+#: ../widgets/hsk-role-based-links.php:5
+msgid ""
+"Use this widget to display custom links or page links based on user roles."
+msgstr ""
+
+#: ../widgets/hsk-role-based-links.php:167
+msgid "Choose Link"
+msgstr ""
+
+#: ../widgets/hsk-role-based-links.php:169
+msgid "Page Links"
+msgstr ""
+
+#: ../widgets/hsk-role-based-links.php:170
+msgid "Custom Link"
+msgstr ""
+
+#: ../widgets/hsk-role-based-links.php:174
+#: ../widgets/hsk-role-based-links.php:178
+msgid "Custom Page Link"
+msgstr ""
+
+#: ../widgets/hsk-role-based-links.php:175
+msgid "Choose Page"
+msgstr ""
+
+#: ../widgets/hsk-role-based-links.php:183
+msgid "Check the role to display the above page link"
+msgstr ""
+
+#: ../widgets/hsk-role-based-links.php:196
+msgid ""
+"  If you want to display the custom links / page links for all roles please "
+"leave it empty"
+msgstr ""
+
+#: ../widgets/hsk-role-based-links.php:201
+msgid "Add Custom Class For Customization"
+msgstr ""
+
+#: ../widgets/hsk-shortlist.php:10
+msgid "HSK- Favourite"
+msgstr ""
+
+#: ../widgets/hsk-shortlist.php:11 ../widgets/hsk-user-login.php:11
+#: ../widgets/hsk-user-profile.php:11
+msgid "This is used to create user log inform"
+msgstr ""
+
+#: ../widgets/hsk-shortlist.php:29
+msgid "For Favourite settings click"
+msgstr ""
+
+#: ../widgets/hsk-social-follow.php:10
+msgid "HSK- Social Follow Icons"
+msgstr ""
+
+#: ../widgets/hsk-social-follow.php:11
+msgid "Use this widget to add social follow icons"
+msgstr ""
+
+#: ../widgets/hsk-social-follow.php:83
+msgid "Add Social Media Follow Icons"
+msgstr ""
+
+#: ../widgets/hsk-social-follow.php:85
+msgid "Ex:"
+msgstr ""
+
+#: ../widgets/hsk-social-follow.php:86
+msgid ""
+"<strong style=\"color:red;\">Note:</strong>Please add social media follow "
+"icons above format only"
+msgstr ""
+
+#: ../widgets/hsk-social-follow.php:99
+msgid "Icon Hover Background Color"
+msgstr ""
+
+#: ../widgets/hsk-social-follow.php:103
+msgid "Icon Hover Color"
+msgstr ""
+
+#: ../widgets/hsk-social-follow.php:107
+msgid "Icon Font Size"
+msgstr ""
+
+#: ../widgets/hsk-social-follow.php:112
+msgid "Icon Padding"
+msgstr ""
+
+#: ../widgets/hsk-social-follow.php:128
+msgid "Margin"
+msgstr ""
+
+#: ../widgets/hsk-talents-cat.php:11
+msgid "HSK - Talents Categories"
+msgstr ""
+
+#: ../widgets/hsk-talents-cat.php:12
+msgid "Use this widget to create category images, title and description"
+msgstr ""
+
+#: ../widgets/hsk-talents-cat.php:91
+msgid "style"
+msgstr ""
+
+#: ../widgets/hsk-talents-cat.php:101
+msgid "Category ID"
+msgstr ""
+
+#: ../widgets/hsk-talents-cat.php:111
+msgid "Images / Category Count Width"
+msgstr ""
+
+#: ../widgets/hsk-talents-cat.php:115
+msgid "Images / Category Count Height"
+msgstr ""
+
+#: ../widgets/hsk-talents-cat.php:120
+msgid "Category Count Background Color"
+msgstr ""
+
+#: ../widgets/hsk-talents-cat.php:124
+msgid "Category Count Color"
+msgstr ""
+
+#: ../widgets/hsk-talents-cat.php:128
+msgid "Category Count Font Size"
+msgstr ""
+
+#: ../widgets/hsk-talents-cat.php:132
+msgid "Category Title Color"
+msgstr ""
+
+#: ../widgets/hsk-talents-cat.php:141
+msgid "Category Description Color"
+msgstr ""
+
+#: ../widgets/hsk-talents-cat.php:149
+msgid "Border Color"
+msgstr ""
+
+#: ../widgets/hsk-talents-cat.php:154
+msgid "Border Radius"
+msgstr ""
+
+#: ../widgets/hsk-talents-cat.php:159
+msgid "Align"
+msgstr ""
+
+#: ../widgets/hsk-talents-slider.php:11
+msgid "HSK - Talents Slider"
+msgstr ""
+
+#: ../widgets/hsk-talents-slider.php:12
+msgid "Use this widget to get all talents as a slider view."
+msgstr ""
+
+#: ../widgets/hsk-talents-slider.php:85 ../widgets/hsk-talents.php:89
+msgid "Choose Categories "
+msgstr ""
+
+#: ../widgets/hsk-talents-slider.php:110 ../widgets/hsk-talents.php:124
+msgid "Order"
+msgstr ""
+
+#: ../widgets/hsk-talents-slider.php:112 ../widgets/hsk-talents.php:126
+msgid "Descending"
+msgstr ""
+
+#: ../widgets/hsk-talents-slider.php:113 ../widgets/hsk-talents.php:127
+msgid "Ascending"
+msgstr ""
+
+#: ../widgets/hsk-talents-slider.php:118 ../widgets/hsk-talents.php:132
+msgid "Order By"
+msgstr ""
+
+#: ../widgets/hsk-talents-slider.php:120 ../widgets/hsk-talents.php:134
+msgid "ID"
+msgstr ""
+
+#: ../widgets/hsk-talents-slider.php:124 ../widgets/hsk-talents.php:138
+msgid "Random"
+msgstr ""
+
+#: ../widgets/hsk-talents-slider.php:128 ../widgets/hsk-talents.php:142
+msgid "Show Talents"
+msgstr ""
+
+#: ../widgets/hsk-talents-slider.php:130 ../widgets/hsk-talents.php:144
+msgid "All Talents"
+msgstr ""
+
+#: ../widgets/hsk-talents-slider.php:131 ../widgets/hsk-talents.php:145
+msgid "No Featured Talents"
+msgstr ""
+
+#: ../widgets/hsk-talents-slider.php:132 ../widgets/hsk-talents.php:146
+msgid "Featured Talents Only"
+msgstr ""
+
+#: ../widgets/hsk-talents-slider.php:133 ../widgets/hsk-talents.php:147
+msgid "Top Rating Talents"
+msgstr ""
+
+#: ../widgets/hsk-talents-slider.php:134 ../widgets/hsk-talents.php:148
+msgid "Most Popular Talents"
+msgstr ""
+
+#: ../widgets/hsk-talents-slider.php:142
+msgid "Title & Favourite BG Color"
+msgstr ""
+
+#: ../widgets/hsk-talents-slider.php:146
+msgid "Title & Favourite Color"
+msgstr ""
+
+#: ../widgets/hsk-talents-slider.php:150 ../widgets/hsk-talents.php:169
+msgid "Remove Favourite Color"
+msgstr ""
+
+#: ../widgets/hsk-talents-slider.php:154
+msgid "Talents Details Background Color"
+msgstr ""
+
+#: ../widgets/hsk-talents-slider.php:158
+msgid "Talents Details Color"
+msgstr ""
+
+#: ../widgets/hsk-talents-slider.php:162 ../widgets/hsk-talents.php:194
+msgid "Guttor"
+msgstr ""
+
+#: ../widgets/hsk-talents-slider.php:167 ../widgets/hsk-talents.php:199
+msgid "Disable Talent Details"
+msgstr ""
+
+#: ../widgets/hsk-talents.php:11
+msgid "HSK - Talents"
+msgstr ""
+
+#: ../widgets/hsk-talents.php:12
+msgid "Use this widget to get all talents as a grid style."
+msgstr ""
+
+#: ../widgets/hsk-talents.php:103
+msgid "Filter Tabs"
+msgstr ""
+
+#: ../widgets/hsk-talents.php:165
+msgid "Title & Favourite Icon Color"
+msgstr ""
+
+#: ../widgets/hsk-talents.php:173
+msgid "Hover Details Background Color"
+msgstr ""
+
+#: ../widgets/hsk-talents.php:177
+msgid "Hover Details Color"
+msgstr ""
+
+#: ../widgets/hsk-talents.php:182
+msgid "Images Limit"
+msgstr ""
+
+#: ../widgets/hsk-talents.php:187
+msgid "Pagination"
+msgstr ""
+
+#: ../widgets/hsk-team-social-icons.php:6
+msgid "HSK-Team Style-2"
+msgstr ""
+
+#: ../widgets/hsk-team-social-icons.php:7
+msgid "Dsiplay team members information"
+msgstr ""
+
+#: ../widgets/hsk-team-social-icons.php:171
+#: ../widgets/hsk-team-social-icons.php:177 ../widgets/hsk-team.php:108
+msgid "Team Member Name"
+msgstr ""
+
+#: ../widgets/hsk-team-social-icons.php:201
+msgid "Team Member Name Color"
+msgstr ""
+
+#: ../widgets/hsk-team-social-icons.php:206
+msgid "Team Member Name Font Size"
+msgstr ""
+
+#: ../widgets/hsk-team-social-icons.php:211
+msgid "Team Member Name Letter Space"
+msgstr ""
+
+#: ../widgets/hsk-team-social-icons.php:216
+msgid "Team Member Name Font Style"
+msgstr ""
+
+#: ../widgets/hsk-team-social-icons.php:223
+msgid "Team Member Name Font Weight"
+msgstr ""
+
+#: ../widgets/hsk-team-social-icons.php:230 ../widgets/hsk-team.php:152
+#: ../widgets/hsk-testimonial-slider.php:199
+msgid "Designation Color"
+msgstr ""
+
+#: ../widgets/hsk-team-social-icons.php:236 ../widgets/hsk-team.php:144
+#: ../widgets/hsk-testimonial-slider.php:204
+msgid "Designation Font Size"
+msgstr ""
+
+#: ../widgets/hsk-team-social-icons.php:241
+#: ../widgets/hsk-testimonial-slider.php:209
+msgid "Designation Letter Space"
+msgstr ""
+
+#: ../widgets/hsk-team-social-icons.php:246
+#: ../widgets/hsk-testimonial-slider.php:214
+msgid "Designation Font Style"
+msgstr ""
+
+#: ../widgets/hsk-team-social-icons.php:253
+#: ../widgets/hsk-testimonial-slider.php:221
+msgid "Designation Font Weight"
+msgstr ""
+
+#: ../widgets/hsk-team-social-icons.php:269 ../widgets/hsk-team.php:161
+#: ../widgets/hsk-testimonial-slider.php:151
+msgid "Description Letter Spacing"
+msgstr ""
+
+#: ../widgets/hsk-team-social-icons.php:274
+#: ../widgets/hsk-testimonial-slider.php:156
+msgid "Description Font Style"
+msgstr ""
+
+#: ../widgets/hsk-team.php:10
+msgid "HSK- Team"
+msgstr ""
+
+#: ../widgets/hsk-team.php:113
+msgid "Designation"
+msgstr ""
+
+#: ../widgets/hsk-team.php:117
+msgid "Small Description About Team Member"
+msgstr ""
+
+#: ../widgets/hsk-team.php:126
+msgid "Title Letter Spacing"
+msgstr ""
+
+#: ../widgets/hsk-team.php:148
+msgid "Designation Letter Spacing"
+msgstr ""
+
+#: ../widgets/hsk-team.php:178
+msgid "Image Border Radius"
+msgstr ""
+
+#: ../widgets/hsk-team.php:188
+msgid "Image & Description Alignment"
+msgstr ""
+
+#: ../widgets/hsk-testimonial-slider.php:6
+msgid "HSK - Testimonial Slider"
+msgstr ""
+
+#: ../widgets/hsk-testimonial-slider.php:7
+msgid "This widget is used to create a testionial slider"
+msgstr ""
+
+#: ../widgets/hsk-testimonial-slider.php:20
+#: ../widgets/hsk-testimonial-slider.php:22
+#: ../widgets/hsk-testimonial-slider.php:24
+#: ../widgets/hsk-testimonial-slider.php:26
+#: ../widgets/hsk-testimonial-slider.php:97
+#: ../widgets/hsk-testimonial-slider.php:99
+#: ../widgets/hsk-testimonial-slider.php:101
+#: ../widgets/hsk-testimonial-slider.php:103
+msgid "normal"
+msgstr ""
+
+#: ../widgets/hsk-testimonial-slider.php:123
+msgid "Style"
+msgstr ""
+
+#: ../widgets/hsk-testimonial-slider.php:138
+msgid "Content Background Color"
+msgstr ""
+
+#: ../widgets/hsk-testimonial-slider.php:170
+msgid "Client Name Color"
+msgstr ""
+
+#: ../widgets/hsk-testimonial-slider.php:175
+msgid "Client Name Font Size"
+msgstr ""
+
+#: ../widgets/hsk-testimonial-slider.php:180
+msgid "Client Name Letter Space"
+msgstr ""
+
+#: ../widgets/hsk-testimonial-slider.php:185
+msgid "Client Name Font Style"
+msgstr ""
+
+#: ../widgets/hsk-testimonial-slider.php:192
+msgid "Client Name Font Weight"
+msgstr ""
+
+#: ../widgets/hsk-title.php:10
+msgid "HSK- Title & Description"
+msgstr ""
+
+#: ../widgets/hsk-title.php:11
+msgid "Add Title"
+msgstr ""
+
+#: ../widgets/hsk-title.php:16
+msgid "Welcome to Sites Spark"
+msgstr ""
+
+#: ../widgets/hsk-title.php:40
+msgid "Add Your Custom Title"
+msgstr ""
+
+#: ../widgets/hsk-title.php:63
+msgid "Custom Title"
+msgstr ""
+
+#: ../widgets/hsk-title.php:71
+msgid "Title & Description Position"
+msgstr ""
+
+#: ../widgets/hsk-title.php:79
+msgid "Enter Title Border Bottom Image URL"
+msgstr ""
+
+#: ../widgets/hsk-title.php:83
+msgid "Enter Title Border Bottom Width"
+msgstr ""
+
+#: ../widgets/hsk-title.php:120
+msgid "Title & Description Bottom Border Color"
+msgstr ""
+
+#: ../widgets/hsk-title.php:124
+msgid "Bottom Border Strip Color"
+msgstr ""
+
+#: ../widgets/hsk-title.php:128
+msgid "Margin Bottom"
+msgstr ""
+
+#: ../widgets/hsk-title.php:133
+msgid "Disable Title Bottom Border"
+msgstr ""
+
+#: ../widgets/hsk-user-login.php:10 ../widgets/hsk-user-profile.php:10
+msgid "HSK- User Login Form"
+msgstr ""
+
+#: ../widgets/hsk-user-login.php:29
+msgid "For user Login form settings click"
+msgstr ""
+
+#: ../widgets/hsk-user-profile.php:29
+msgid "For user profile for profilerm settings click"
+msgstr ""
+
+#: ../widgets/hsk-user-registration.php:10
+msgid "HSK- User Registration Form"
+msgstr ""
+
+#: ../widgets/hsk-user-registration.php:29
+msgid "For user registration form settings click"
+msgstr ""
+
+#: ../widgets/woo-products-slider.php:5
+msgid "HSK- Products Slider"
+msgstr ""
+
+#: ../widgets/woo-products-slider.php:6
+msgid "This is used to create user all products as a slider"
+msgstr ""
+
+#: ../widgets/woo-products-slider.php:125
+msgid "Sale!"
+msgstr ""
+
+#: ../widgets/woo-products-slider.php:128
+#, php-format
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: ../widgets/woo-products-slider.php:128
+msgid "out of 5"
+msgstr ""
+
+#: ../widgets/woo-products-slider.php:198
+msgid "Product Type:"
+msgstr ""
+
+#: ../widgets/woo-products-slider.php:200
+msgid "Latest Products"
+msgstr ""
+
+#: ../widgets/woo-products-slider.php:201
+msgid "Featured Products"
+msgstr ""
+
+#: ../widgets/woo-products-slider.php:202
+msgid "On Sale Products"
+msgstr ""
+
+#: ../widgets/woo-products-slider.php:203
+msgid "Certain Category"
+msgstr ""
+
+#: ../widgets/woo-products-slider.php:207
+msgid "Number of Products:"
+msgstr ""
+
+#: ../widgets/woo-products-slider.php:211
+msgid "Product Hover BG Color"
+msgstr ""
+
+#: ../widgets/woo-products-slider.php:215
+msgid "Product Hover Color"
+msgstr ""
+
+#: ../widgets/woo-products-slider.php:219
+msgid "Product Title Color"
+msgstr ""
+
+#: ../widgets/woo-products-slider.php:223
+msgid "Product Rating Color"
+msgstr ""
+
+#: ../widgets/woo-products-slider.php:227
+msgid "Product Price Color"
+msgstr ""

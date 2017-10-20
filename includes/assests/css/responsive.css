@@ -1,0 +1,12 @@
+@media screen and (min-width: 1024px) and (max-width: 1166px) {
+
+}
+@media screen and (min-width: 200px) and (max-width: 1023px) {
+    .hsk-talent-single-left-column.hsk-column3, .hsk-talent-single-left-column.hsk-column9{
+        width: 100%;
+    }
+    .hsk-talent_tabs-wrapper{
+        border-right: 0px;
+        border-bottom: 1px solid rgba(127,127,127,.3);
+    }
+}

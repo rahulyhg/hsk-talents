@@ -1,0 +1,3 @@
+<?php
+exit('new data');
+?>
