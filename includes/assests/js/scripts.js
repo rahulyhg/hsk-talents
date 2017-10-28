@@ -498,7 +498,7 @@ $('.favourite-item-type, .hsk-talent-add-favarative').on('click', function(e){
 });
 
 $('.hsk-talent-favouritive-items .talent-remove-favourite, .hsk-talent-remove-favarative').on('click', function(e){
-   $this = $(this);
+   var $this = $(this);
     var $fav_item_id = $(this).parent().parent().attr('id');
     var $item_action_type = 'remove';
     $.ajax({
