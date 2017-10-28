@@ -31,7 +31,7 @@ function hsk_talents_adshboard_admin_init() {
 }
 
 function hsk_talents_dashboard_settings_page_init() {
-   $settings_page = add_menu_page(esc_html__("Settings", 'hsktalents'), esc_html__('Settings', 'hsktalents'), 'edit_theme_options', 'hsk-user-dashboard', 'hsk_talents_dashboard_settings_page' );
+   $settings_page = add_menu_page(esc_html__("Hsk User Dashboard", 'hsktalents'), esc_html__('Hsk User Dashboard', 'hsktalents'), 'edit_theme_options', 'hsk-user-dashboard', 'hsk_talents_dashboard_settings_page' );
     add_action( "load-{$settings_page}", 'hsk_talents_load_dashboard_settings_page' );
 }
 

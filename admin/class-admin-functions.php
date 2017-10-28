@@ -4,6 +4,13 @@ function hideAdminBar() { ?>
 <?php }
 //add_action('admin_print_scripts-profile.php', 'hideAdminBar');
 
+if(!current_user_can('administrator') ) {
+    function hsk_remove_dashboard_widgets(){
+        remove_meta_box('dashboard_activity', 'dashboard', 'normal');
+    }
+    add_action('wp_dashboard_setup', 'hsk_remove_dashboard_widgets');
+}
+
 function hsk_talents_hide_admin_bar_links() {
     global $wp_admin_bar;
     //Remove WordPress Logo Menu Items
@@ -131,6 +138,62 @@ class HSK_Admin_User_Role_Permissions
             $wp_query->set( 'author', $current_user->ID );
             add_filter('views_edit-talent', array(&$this,'hsk_user_roles_post_counts'));
         }
+    }
+
+
+    /**
+     *  Show only posts and media related to logged in author  
+     */
+    function hsk_user_roles_post_counts($views) {
+        global $current_user, $wp_query;
+        unset($views['mine']);
+        $types = array(
+            array( 'status' =>  NULL ),
+            array( 'status' => 'publish' ),
+            array( 'status' => 'draft' ),
+            array( 'status' => 'pending' ),
+            array( 'status' => 'trash' )
+        );
+        foreach( $types as $type ) {
+            $query = array(
+                'author'      => $current_user->ID,
+                'post_type'   => 'talent',
+                'post_status' => $type['status']
+            );
+            $result = new WP_Query($query);
+            if( $type['status'] == NULL ):
+                //$class = '';
+                $class = !empty($wp_query->query_vars['post_status']) ? '':' class="current"';
+                $views['all'] = sprintf(__('<a href="%s"'. $class .'>All <span class="count">(%d)</span></a>', 'all'),
+                    admin_url('edit.php?post_type=talent'),
+                    $result->found_posts);
+            elseif( $type['status'] == 'publish' ):
+                //$class = '';
+                $class = (!empty($wp_query->query_vars['post_status']) &&($wp_query->query_vars['post_status'] == 'publish')) ? ' class="current"' : '';
+                $views['publish'] = sprintf(__('<a href="%s"'. $class .'>'.__('Published', 'hsktalent').' <span class="count">(%d)</span></a>', 'publish'),
+                    admin_url('edit.php?post_status=publish&post_type=talent'),
+                    $result->found_posts);
+            elseif( $type['status'] == 'draft' ):
+                //$class = '';
+                $class = (!empty($wp_query->query_vars['post_status']) &&($wp_query->query_vars['post_status'] == 'draft')) ? ' class="current"' : '';
+                $views['draft'] = sprintf(__('<a href="%s"'. $class .'>'.__('Draft', 'hsktalent').' '. ((sizeof($result->posts) > 1) ? "s" : "") .' <span class="count">(%d)</span></a>', 'draft'),
+                    admin_url('edit.php?post_status=draft&post_type=talent'),
+                    $result->found_posts);
+            elseif( $type['status'] == 'pending' ):
+                //$class = '';
+                $class = (!empty($wp_query->query_vars['post_status']) &&($wp_query->query_vars['post_status'] == 'pending')) ? ' class="current"' : '';
+                $views['pending'] = sprintf(__('<a href="%s"'. $class .'>'.__('Pending', 'hsktalent').'<span class="count">(%d)</span></a>', 'pending'),
+                    admin_url('edit.php?post_status=pending&post_type=talent'),
+                    $result->found_posts);
+            elseif( $type['status'] == 'trash' ):
+                $class = (!empty($wp_query->query_vars['post_status']) &&($wp_query->query_vars['post_status'] == 'trash')) ? ' class="current"' : '';
+                //$class = '';
+                $views['trash'] = sprintf(__('<a href="%s"'. $class .'>'.__('Trash', 'hsktalent').' <span class="count">(%d)</span></a>', 'trash'),
+                    admin_url('edit.php?post_status=trash&post_type=talent'),
+                    $result->found_posts);
+            endif;
+        }
+        return $views;
     }
 
     /** 

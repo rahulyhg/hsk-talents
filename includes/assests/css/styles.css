@@ -162,6 +162,26 @@ h3.hsk-title-bottom-border::after{
     width: 101.5%;
 }
 /**
+ Search Forms Style
+ */
+ .hsk-search-form-fields-wrapper p input{
+    width: 97%;
+    padding:4px 1.5%;
+ }
+ .hsk-search-form-fields-wrapper p{
+    overflow: hidden;
+    margin-bottom: 20px;
+ }
+ .hsk-search-form-fields-wrapper p select{
+    height: 35px;
+    border: 1px solid rgba(127,127,127,.3);
+    border-radius: 3px;
+    padding: 3px;
+ }
+ .hsk-search-form-fields-wrapper p.hsk-single-select-field select{
+    width: 97%;
+ }
+/**
  * Registration Form
  */
 .hsk-form-styles p label, .hsk-form-styles th label{

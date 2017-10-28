@@ -1,5 +1,5 @@
 <?php
-if(isset($_SESSION)){
+if(!session_id()){
     session_start();
 }
 /**
@@ -99,6 +99,18 @@ function hsk_post_link_open($post_id, $classes=''){
 function hsk_post_link_close(){
     return '</a>';
 }
+/**
+ *  Random String Generation
+ */
+function hsk_generate_random_string($length = 3) {
+    $characters = '0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ';
+    $randomString = '';
+    for ( $i = 0; $i < $length; $i ++  ) {
+        $randomString .= $characters[rand(0, strlen($characters) - 1)];
+    }
+    return $randomString;
+}
+
 /**
  * Generate User ID
  */
@@ -575,6 +587,26 @@ function hsk_include_templates($slug, $name = ''){
     }
    // echo $template;
 }
+
+/**
+ * Customize plugin files templates
+ */
+function hsk_override_include_templates($slug, $name = '',$plugin_name=''){
+    $template = '';    
+    if ( ! $template && $name && file_exists( locate_template("hsktalents/{$slug}-{$name}.php") ) ) {
+        $template = locate_template( array("hsktalents/{$slug}-{$name}.php" ) );
+    }elseif ( ! $template && $name ) {
+       $template = plugins_url() . "/{$plugin_name}/templates/{$slug}-{$name}.php";
+    }elseif ( ! $template && empty( $name ) ) {
+        $template = locate_template( array( "{$slug}.php", "hsktalents/{$slug}.php" ) );
+    }else{ }
+
+    if ( $template ) {
+        //echo 'test';
+        load_template( $template, false );
+    }
+   // echo $template;
+}
 /**
  * Talent Ratins system
  */
@@ -919,7 +951,7 @@ function hsk_facebooks_post_js(){
     }(document, 'script', 'facebook-jssdk'));</script>
 <?php }
 }
-add_action('wp_head', 'hsk_facebooks_post_js');
+//add_action('wp_head', 'hsk_facebooks_post_js');
 
 // Search Function
 function hsk_adv_search_form(){
@@ -1058,7 +1090,6 @@ function hsk_get_adv_search_result(){
                         if( $hsk_talent_meta_opt['talent_meta_field_name'][$tab_id][$i] == 'select' ){ // text 
                             if( $hsk_talent_meta_opt['talent_option_search_range'][$tab_id][$i] == 'true' ){ // Search Range True
                                 if( (!empty($_REQUEST[$id.'-from']) ) && (!empty($_REQUEST[$id.'-to'])) ){
-                                    echo 'test';
                                     $args['meta_query'][] = array(
                                         'key' => $prefix.$id,
                                         'value' => array($_REQUEST[$id.'-from'], $_REQUEST[$id.'-to']), 
@@ -1125,5 +1156,166 @@ function talenthub_hsk_hextorgba($color, $opacity = false){
         $output = 'rgb(' . implode(",", $rgb) . ')';
     }    
     return $output;
+}
+
+/**
+ * Start Function for createing success Message
+ */
+function hsk_success($message = '') {
+    global $post;
+    if ( $message == '' ) {
+        $message = __('Nothing to found','hsktalents');
+    }
+    $output = '';
+    $output .= '<div class="alert hsk-success-msg"><p>';
+    $output .= $message;
+    $output .= '</p></div>';
+    echo force_balance_tags($output);
+}
+
+/**
+ * Start Function for createing Error Message
+ */
+function hsk_error($message = '') {
+    global $post;
+    if ( $message == '' ) {
+        $message = __('Nothing to found','hsktalents');
+    }
+    $output = '';
+    $output .= '<div class="alert hsk-error-msg"><p>';
+    $output .= $message;
+    $output .= '</p></div>';
+    echo force_balance_tags($output);
+}
+
+/**
+ * Start Function for createing Warning Message
+ */
+function hsk_warning($message = '') {
+    global $post;
+    if ( $message == '' ) {
+        $message = __('Nothing to found','hsktalents');
+    }
+    $output = '';
+    $output .= '<div class="alert hsk-warning-msg"><p>';
+    $output .= $message;
+    $output .= '</p></div>';
+    echo force_balance_tags($output);
+}
+
+/**
+ * Start Function for Giving the Information to you the user
+ */
+function hsk_informations($message = '') {
+    global $post;
+    if ( $message == '' ) {
+        $message = __('Nothing to found','hsktalents');
+    }
+    $output = '';
+    $output .= '<div class="alert hsk-info-msg"><p>';
+    $output .= $message;
+    $output .= '</p></div>';
+    echo force_balance_tags($output);
+}
+
+/**
+ * Start Function how to Save last User login Save
+ */
+if ( ! function_exists('hsk_user_last_login') ) {
+
+    add_action('wp_login', 'hsk_user_last_login', 0, 2);
+
+    function hsk_user_last_login($login, $user) {
+        $user = get_user_by('login', $login);
+        $now = time();
+        update_user_meta($user->ID, 'hsk_user_last_login', $now);
+    }
+
+}
+
+/**
+ * Start Function how to Get last User login Save
+ */
+if ( ! function_exists('hsk_get_hsk_user_last_login') ) {
+
+    function hsk_get_hsk_user_last_login($user_ID = '') {
+        if ( $user_ID == '' ) {
+            $user_ID = get_current_user_id();
+        }
+        $key = 'hsk_user_last_login';
+        $single = true;
+        $hsk_user_last_login = get_user_meta($user_ID, $key, $single);
+        return $hsk_user_last_login;
+    }
+
+}
+
+/**
+ * Start Function how to get Post Detail
+ */
+if ( ! function_exists('hsk_get_post_detail') ) {
+
+    function hsk_get_post_detail($post_id) {
+        $post = get_post($post_id);
+        return $post;
+    }
+
+}
+
+/**
+ * Start Function how to Count User Meta 
+ */
+if ( ! function_exists('hsk_get_count_usermeta') ) {
+
+    function hsk_get_count_usermeta($key, $value, $opr, $return = false) {
+        $arg = array(
+            'meta_key' => $key,
+            'meta_value' => $value,
+            'meta_compare' => $opr,
+        );
+        $users = get_users($arg);
+        if ( $return == true ) {
+            return $users;
+        }
+        return count($users);
+    }
+}
+
+/**
+ * Start Function get to Post Meta 
+ */
+if ( ! function_exists('hsk_get_postmeta_data') ) {
+
+    function hsk_get_postmeta_data($key, $value, $opr, $post_type, $return = false) {
+        $user_post_arr = array( 'posts_per_page' => "-1", 'post_type' => $post_type, 'order' => "DESC", 'orderby' => 'post_date',
+            'post_status' => 'publish', 'ignore_sticky_posts' => 1,
+            'meta_query' => array(
+                array(
+                    'key' => $key,
+                    'value' => $value,
+                    'compare' => $opr,
+                )
+            )
+        );
+        $user_data = get_posts($user_post_arr);
+        if ( $return == true ) {
+            return $user_data;
+        }
+    }
+
+}
+
+/**
+ * @check array emptiness 
+ */
+if ( ! function_exists('hsk_is_empty_array') ) {
+
+    function hsk_is_empty_array($a) {
+        foreach ( $a as $elm )
+            if ( ! empty($elm) )
+                return false;
+        return true;
+    }
+
 }
 ?>

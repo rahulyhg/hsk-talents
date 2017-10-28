@@ -1,6 +1,5 @@
 (function($){
-    "use scripts";
-
+    "use strict";
 
     /**
      * Image box colors
@@ -49,6 +48,10 @@
         $(".hsk-talent_tabs-wrapper ul li:first").addClass("tab-active").show();
         $(".hsk-single-talent-content:first").stop(true, true).fadeIn(0);
         $(".hsk-talent_tabs-wrapper ul li").click(function() {
+            var container =  $( '.hsk-single-talent-gallery > ul' );
+            container.imagesLoaded( function(){
+                container.masonry();
+            });
             $(".hsk-talent_tabs-wrapper ul li").removeClass("tab-active");
             $(this).addClass("tab-active");
             $(".hsk-single-talent-content").stop(true, true).fadeOut(0);

@@ -75,3 +75,74 @@ ul.hsk-user-post-wrapper li {
     display: block;
     font-weight: 500;
 }
+
+        .sortcontainer {
+            padding: 0 0 5px 0;
+        }
+
+        .sortcontainer .field {
+            margin: 8px 0;
+            cursor: ns-resize;
+        }
+
+        .sortcontainer .field table {
+            background-color: #f1f1f1;
+            border: 1px dotted gray;
+            padding: 5px;
+            -moz-border-radius: 5px 5px 5px 5px;
+            border-radius: 5px 5px 5px 5px;
+        }
+
+        .sortcontainer .field table.bad-field {
+            background-color: #FFEBE8;
+            border-color: #CC0000;
+        }
+
+        .sortcontainer .field input.regular-text {
+            width: 100%;
+        }
+
+        .sortcontainer .field th {
+            font-size: 10px;
+            font-style: normal;
+        }
+
+        .sortcontainer .field td {
+            padding: 0 5px;
+        }
+
+        .sortcontainer .num {
+            width: 3%;
+        }
+
+        .sortcontainer .slug {
+            width: 10%;
+        }
+
+        .sortcontainer .name {
+            width: 20%;
+        }
+
+        .sortcontainer .description {
+            width: 30%;
+        }
+
+        .sortcontainer .userlevel {
+            width: 20%;
+        }
+
+        .sortcontainer .actions {
+            width: 7%;
+        }
+        td.hsk-user-roles {
+            height: 100px;
+            overflow: hidden;
+            display: block;
+            overflow-y: scroll;
+        }
+        .sortcontainer .delete {
+            font-size: 11px;
+            font-style: italic;
+            color: #666;
+            float: right;
+        }
